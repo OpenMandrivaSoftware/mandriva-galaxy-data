@@ -1,0 +1,261 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Glentadakis Dimitrios <dglent@gmail.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-22 13:35+0200\n"
+"Last-Translator: Glentadakis Dimitrios <dglent@gmail.com>\n"
+"Language-Team: Greek <translators_team@mandrivalinux.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Μία πλήρης σειρά για όλες τις ανάγκες. Συμπεριλαμβανόμενης της πλήρης "
+"υποστήριξης των netbooks !"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Η ευκολία χρήσης πάει χέρι χέρι με την ασφάλεια των δεδομένων σας και της "
+"οικογένειάς σας. Η Mandriva Linux έρχεται με ένα ολοκληρωμένο και ισχυρό "
+"σύνολο εργαλείων διαχείρισης. Ρύθμιση εκτυπωτή, διαχείριση δικτύου και "
+"φορητότητας, αλλά και του προσωπικού τοίχους προστασίας, έλεγχος πρόσβασης "
+"για παιδιά στο δίκτυο και στις εφαρμογές... Το περιβάλλον σας είναι "
+"ελεύθερο, ανοιχτό και ασφαλές!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Ενισχύστε οικονομικά την Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Πως να συνεισφέρετε στην Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Εγκαταστήστε την Mandriva Linux 2011 και ενωθείτε με την παγκόσμια "
+"κοινότητα."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Η κοινότητα Mandriva είναι το μέρος που θα βρείτε την καλύτερη εμπειρία "
+"Mandriva Linux και όπου μπορείτε να δείξετε ή να διδάξετε σε άλλους, να "
+"αποκτήσετε πρόσβαση σε αποκλειστικά χαρακτηριστικά και να συνεισφέρετε στην "
+"ανάπτυξη της Mandriva Linux, όπως και στο ελεύθερο λογισμικό γενικά. Δεν "
+"έχει σημασία το τεχνικό σας επίπεδο, ελάτε μαζί μας για τις μελλοντικές "
+"εκδόσεις της διανομής."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Η Mandriva Linux σας προσφέρει την ελευθερία να διαμορφώσετε το περιβάλλον "
+"εργασίας σας ανάλογα με τις ανάγκες σας. Παραμετροποιήσιμο, επεκτάσιμο, "
+"εξελισσόμενο, αποτελεσματικό και με πληθώρα οπτικών εφέ αν το επιθυμείτε: "
+"κάνετε την επιλογή σας. Σε αποκλειστικότητα, ανακαλύψτε όλα τα "
+"χαρακτηριστικά του έξυπνου περιβάλλοντος εργασίας σας. Καθορίστε το "
+"περιβάλλον εργασίας σας ανάλογα με τη χρήση του. Ονομάστε τα έγγραφά σας, "
+"τις εικόνες σας, την αλληλογραφία σας, προσδιορίσετε τα έργα σας. "
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Φόρουμ Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Λίστες ταχυδρομείου Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Το wiki της κοινότητας Mandriva"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Έξυπνο, καινοτόμο, ανοιχτό"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Μετατρέψτε την επιφάνεια εργασίας σας σε ένα κέντρο πολυμέσων ή ένα ελαφρύ "
+"περιβάλλον για netbook: Εύκολο σαν ένα κλικ. Έχετε πλήρη πρόσβαση σε "
+"χιλιάδες εφαρμογές: πολυμέσα, σύστημα γραφείου, γραφικά, διαδίκτυο, "
+"ανάπτυξη... Βελτιώστε την εμπειρία σας στην επιφάνεια εργασίας σας και "
+"αποκτήστε περισσότερα από ένα λειτουργικό σύστημα!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "Η 100% Ελεύθερη και ανοιχτού κώδικα<br/>διανομή"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr ""
+"Το περιβάλλον εργασίας Linux που είναι εύκολο <br/>να δοκιμάσετε και να "
+"κρατήσετε"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Την διανομή Mandriva Linux<br/> με ακόμα περισσότερα"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Μπορείτε επίσης να συνεισφέρετε οικονομικά στην Mandriva Linux."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Μπορείτε να συνεισφέρετε στην Mandriva Linux"
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Η επιφάνεια εργασίας σας καλύπτει τις ανάγκες σας."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Η επιφάνεια εργασίας σας είναι ακόμα εξυπνότερη!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Η επιφάνεια εργασίας σας είναι εύκολη στη χρήση και ασφαλής."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Άμεση πρόσβαση στα αποθετήρια λογισμικού Mandriva με μια πληθώρα "
+#~ "εφαρμογών: πολυμέσων, γραφείου, γραφικών, διαδικτύου, ανάπτυξης... Όλες "
+#~ "διαθέσιμες με μερικά κλικ. Ανοιχτή και εύκολη, προχωρήστε χέρι χέρι με "
+#~ "την ασφάλεια των δεδομένων σας."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Ανακαλύψτε ακόμα περισσότερες καινοτομίες"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Πολύ περισσότερο από ένα λειτουργικό σύστημα, θα ανακαλύψετε ένα "
+#~ "περιβάλλον απλό, πλήρες και ασφαλές."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Η επιφάνεια εργασίας του υπολογιστή σας είναι γεμάτη εκπλήξεις. "
+#~ "Μετατρέψτε την επιφάνεια εργασίας σας σε κέντρο πολυμέσων χάρις στο "
+#~ "Moovida. Ανακαλύψτε το νέον περιβάλλον για κινητές συσκευές, Moblin: "
+#~ "απολαύστε το περιβάλλον εργασίας επικεντρωμένο στην φορητότητα."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Ένα πακέτο ευκολίας και ασφάλειας"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "´Ενα περιβάλλον εργασίας πλήρες και προσωπικά παραμετροποιήσιμο "
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Και τα δύο χαρακτηριστικά προσφέρονται ταυτόχρονα ! Τα εργαλεία Mandriva "
+#~ "κάνουν την εμπειρία σας με το Linux ευκολότερη. Η σύνδεση στο σπίτι ή η "
+#~ "κινητή σύνδεση, πραγματοποιούνται εύκολα με μερικά κλικ ! Μοιραστείτε τα "
+#~ "έγγραφά σας χωρίς να χρειάζεται να σκεφτείτε το πως γίνεται ! Αποκτήστε "
+#~ "άμεση πρόσβαση στα επίσημα αποθετήρια λογισμικού Mandriva και "
+#~ "επωφεληθείτε από τα περισσότερα από 20.000 διαθέσιμα πακέτα. Εύκολα δεν "
+#~ "σημαίνει χωρίς ασφάλεια. Η Mandriva Linux περιλαμβάνει ένα εργαλείο "
+#~ "γονικού ελέγχου και ένα ισχυρό τοίχος προστασίας. Έτσι τα προσωπικά σας "
+#~ "δεδομένα είναι προστατευμένα αποτελεσματικά !"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Βοηθήστε την Mandriva στο χτίσιμο της βάσης δεδομένων συμβατότητας υλικού"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Συνδυάστε την καινοτομία και τη σταθερότητα"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Η Mandriva Linux σας δίνει την επιλογή : διαμορφώστε ένα περιβάλλον που "
+#~ "ανταποκρίνεται στις ανάγκες σας και στις προτιμήσεις σας. "
+#~ "Παραμετροποιήσιμο, επεκτάσιμο, αποτελεσματικό και πληθώρα οπτικών εφέ εάν "
+#~ "το επιθυμείτε : εσείς αποφασίζετε και μπορείτε να τη χρησιμοποιήσετε "
+#~ "οπουδήποτε, από το παλαιότερο ως το πιο σύγχρονο υλικό."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Η Mandriva Linux είναι ένα σύνολο του πιο καινοτόμου, ισχυρού και "
+#~ "σταθερού λογισμικού ανοιχτού κώδικα. Σουίτα γραφείου, αποστολέας "
+#~ "στιγμιαίων μηνυμάτων, πολυμέσα (εικόνες, ήχος, βίντεο) : Το σύστημά σας "
+#~ "είναι πλήρες από συμβατές λειτουργίες με αυτές των φίλων σας."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Η Mandriva έχει δημιουργήσει μία κοινοτική βάση δεδομένων συμβατότητας "
+#~ "υλικού η οποία στοχεύει να βοηθήσει τους χρήστες Linux να βρουν "
+#~ "πληροφορίες σχετικά με την συμβατότητα του υλικού τους, και να "
+#~ "καλυτερεύσουν την υποστήριξη του υλικού τους. Αν θέλετε να συμμετάσχετε, "
+#~ "μπορείτε να μας στείλετε την λίστα με το υλικό στο σύστημά σας, και να "
+#~ "αξιολογήσετε την αποτελεσματικότητα που έχει τρέχοντας Linux. Έτσι άλλοι "
+#~ "χρήστες μπορούν να χρησιμοποιήσουν αυτές τις πληροφορίες. Οι πληροφορίες "
+#~ "αυτές δεν περιέχουν σε καμία περίπτωση προσωπικές πληροφορίες, "
+#~ "προστατεύοντας έτσι το απόρρητο της ιδιωτικής σας ζωής. <a target=\"_blank"
+#~ "\" href=\"http://hcl.mandriva.com\"> Είναι γρήγορο και εύκολο να "
+#~ "συνεισφέρετε.</a>"

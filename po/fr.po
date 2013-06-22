@@ -1,0 +1,179 @@
+# translation of mandriva-galaxy-data to French
+# French translation for mandriva-galaxy-data
+# Copyright (C) 2009 MandrivaLinux
+#
+# Christophe Berthelé <berthy@mandriva.org>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data-fr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-23 12:01+0100\n"
+"Last-Translator: Christophe Berthelé <berthy@mandriva.org>\n"
+"Language-Team: French <cooker-i18n@mandrivalinux.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2;plural=(n>1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Une gamme complète couvrant tous vos besoins. Le support total des netbooks "
+"inclus !"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Facilité d'utilisation va de pair avec la sécurité de vos données et de "
+"votre famille. Mandriva Linux est livré avec un ensemble complet de "
+"puissants outils d'administration. Configuration de l'impression, du réseau "
+"et de la gestion de la mobilité, mais aussi parefeu personnel, contrôle "
+"d'accès des enfants au réseau et aux applications... Votre environnement est "
+"libre, facile d'utilisation et complètement sécurisé !"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Financer Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Comment contribuer à Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr "Installez Mandriva Linux 2011 et rejoignez un monde Ouvert."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"La Communauté Mandriva vous permettra de profiter de la meilleure expérience "
+"Mandriva Linux, d'apprendre des autres, d'enseigner aux autres, d'accèder à "
+"des fonctionnalités exclusives et de contribuer au développement de Mandriva "
+"Linux, ainsi qu'aux logiciels gratuits et Open source en général. Quelles "
+"que soient vos compétences techniques, rejoignez-nous pour les futures "
+"versions de la distribution."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux vous offre la liberté de configurer votre environnement pour "
+"vos besoins. Personnalisable, modulaire, évolutif, efficace et plein "
+"d'effets visuels si vous le souhaitez : faites votre choix. En exclusivité, "
+"découvrez toutes les fonctionnalités du bureau intelligent. Configurez votre "
+"bureau en fonction de son utilisation. Nommez vos documents, vos images, vos "
+"courriels, identifiez vos projets."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Forums Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Listes de distribution Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Intelligent, Innovant, Ouvert"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Basculez votre bureau vers un centre multimédia ou vers un environnement "
+"portable léger : c'est simple comme un clic. Vous disposez d'un accès "
+"complet à des milliers d'applications : multimédia, bureautique, graphisme, "
+"Internet, dévéloppement... Approfondissez votre expérience du Bureau et "
+"profitez de bien plus qu'un simple système d'exploitation !"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "La distribution 100% gratuite<br/>et Open Source"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Le bureau Linux facile à<br/> tester et facile à adopter"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "La distribution Mandriva Linux<br/>avec toujours plus"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Vous pouvez aussi contribuer en finançant le projet Mandriva Linux."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Vous pouvez contribuer à Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Votre bureau répond à vos besoins."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Votre bureau est encore plus intelligent !"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Votre bureau est simple d'utilisation et sécurisé !"
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Accèdez directement aux dépôts logiciels Mandriva et profitez de milliers "
+#~ "de d'applications : multimédia, bureautique, graphisme, Internet, "
+#~ "développement... Tout est accessible en quelques clics. Ouverte et "
+#~ "facile, marchez main dans la main avec la sécurité de vos données."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Découvrez encore plus d'innovations"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Bien plus qu'un système d'exploitation, vous découvrirez un environnement "
+#~ "simple, complet et sécurisé."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Votre bureau est une mine de surprises. Transformez votre bureau en un "
+#~ "centre multimédia grâce à Moovida. Découvrez le nouvel environnement "
+#~ "dédié au bureau mobile avec Moblin : étendez votre expérience du bureau, "
+#~ "en vous concentrant sur la mobilité."

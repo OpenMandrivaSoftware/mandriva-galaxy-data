@@ -1,0 +1,198 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Glentadakis Dimitrios <meta@metanav.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2009-04-11 14:31+0200\n"
+"Last-Translator: MetaNav <meta@metanav.com>\n"
+"Language-Team: MetaNav <meta@metanav.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr "당신의 모든 요구를 완벽히 충족합니다. 넷북에 대한 완전한 지원 포함!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr ""
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr ""
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"메타냅 맨드리바 리눅스 2009 봄 버젼을 사용하여 세계적 커뮤니티에 조인하세요"
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr ""
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr ""
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr ""
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr ""
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "커뮤니티와 일반 사용자에 대한 100% 프리 / 오픈 소스<br/> 판"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "사용하기 쉽고 휴대하기 쉬운<br/> 리눅스 데스탑"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "메타냅 맨드리바 리눅스 발행본<br>은 그 이상입니다"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr ""
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr ""
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr ""
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr ""
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr ""
+
+#, fuzzy
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "사용하기 쉽고 보안성이 강화된 번들"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "완전하고 개인화된 메타냅 맨드리바 리눅스 데스크탑 환경"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "필수적인 사양들이 함께 포함되었습니다! 맨드리바 도구들은 당신의 리눅스데스"
+#~ "크탑 환경을 보다 쉽게 해줍니다. 가정용 네트워크 연결이나 모바일 연결:그것"
+#~ "은 클릭 만큼 쉽습니다! 당신의 문서를 공유할 방법이나 도구를 찾을 필요 없이"
+#~ "공유할 수 있습니다! 맨드리바 오피셜 소프트웨어 리포지토리로의 액세스와 함"
+#~ "께20,000 개 이상의 가용성 있는 패키지들의 잇점을 누리세요. 쉽다는 것이 보"
+#~ "안성이낮다는 것이 아닙니다. 맨드리바 리눅스는 부모 제어 툴을 함께 제공하"
+#~ "고 있고매우 강력한 개인 방화벽을 제공합니다. 당신의 개인 자료는 맨드리바 "
+#~ "리눅스가보호합니다!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr "맨드리바가 하드웨어 호환성 데이타베이스를 만드는데 협력하세요"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "혁신적이고 안정적"
+
+#, fuzzy
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "메타냅 맨드리바 리눅스는 선택을 제공합니다: 당신의 환경에 맞게 적용하며당"
+#~ "신의 기호와 요구에 맞게 합니다. 개인화되었고 모듈화되었고 확장성이 있으며"
+#~ "당신이 원한다면 효율적이고 완전한 시각적 효과를 제공합니다: 이것은당신에 "
+#~ "의하며 어디서나 쓸 수 있고, 과거에서 최신까지 모두 지원합니다."
+
+#, fuzzy
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "메타냅 맨드리바 리눅스는 가장 혁신적이며, 강력하고 안정된 형태로 오픈 소스"
+#~ "프로그램들을 구성하였습니다. 오피스, 인스턴트 메시징, 멀티미디어(이미지, "
+#~ "오디오, 비디오): 당신의 데트스탑은 완전하며 당신이 가질 수 있는 가장완벽하"
+#~ "고 호환성있는 기능을 모두 제공합니다."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "메타냅(주) 맨드리바는 커뮤니티 하드웨어 호환성 데이타베이스를 구성하였으"
+#~ "며 이는리눅스 사용자들이 자기가 사용하는 하드웨어에 대한 호환성을 찾을 수 "
+#~ "있게하기위함이며 기술지원의 향상을 위한 것입니다. 만약 당시이 일부를 참여"
+#~ "하기 원한다면,당신 시스템의 하드웨어 리스트와 함께 리눅스에서의 그 하드웨"
+#~ "어 성능에 관한 자료를 우리에게 보내주세요. 다른 사용자이 이 정보를 활용합"
+#~ "니다. 그 정보는 당신의 개인정보와는 어떠한 링크도 되어 있지 않으며, 당신"
+#~ "의 프라이버스에 대한 안전성을보장합니다. <a target=\"_blank\" href="
+#~ "\"http://hcl.mandriva.com\"> 이것은 빠르고 쉽게 기여할 수 있는 방법입니다."
+#~ "</a>"

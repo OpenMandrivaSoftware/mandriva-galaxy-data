@@ -1,0 +1,254 @@
+# translation of mandriva-galaxy-data to Euskara
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: eu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-06-29 14:09+0200\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Language-Team: Basque <kde-i18n-doc@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Zure behar guztiak asetzeko sorta oso bat. Netbook-entzako euskarri osoa "
+"barne!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Erabilerraztasuna zure eta zure familiaren datuen segurtasunaren eskutik "
+"dator. Mandriva Linux administrazio tresna ahaltsuen multzo zabal batekin "
+"dator. Inprimagailuak konfiguratzeko, sare eta mugikortasun kudeaketa, baino "
+"baita suhesi pertsonala, umeentzako sare eta aplikazioentzako sarbide "
+"kontrola... Zure ingurunea aske, erraz eta guztiz segurua da!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Mandriva Linux diruz lagundu"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Mandriva Linuxi nola lagundu"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Instalatu Mandriva Linux 2010 spring (udaberria) eta bat egin mundu "
+"Irekiarekin."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Mandriva Elkartean izango dituzu Mandriva Linux esperientzia onenak, "
+"besteengandik ikasi, besteei irakatsi, ezaugarri esklusiboak jasotzen eta "
+"Mandriva Linux-en garapenean eta orokorrean Software Aske eta Iturburu "
+"Irekidun Softwarearenean lagunduz. Zure trebetasun teknikoak edozein direla, "
+"elkartu gurekin banaketaren etorkizuneko bertsioetarako."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux-ek zure ingurunea zure beharretara konfiguratzeko askatasuna "
+"ematen dizu. Pertsonalizagarria, modularra, eskalagarria, eraginkorra eta "
+"ikusmen efektuz betea hala nahi baduzu:  egin zure aukera. Esklusiban, "
+"deskubritu mahaigain adimentsuaren funtzionalitate guztiak. Definitu zure "
+"ingurunea eman nahi diozun erabileran oinarrituta. Etiketatu zure "
+"dokumentuak, zure irudiak, zure postak, identifikatu zure proiektuak. ."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Mandriva foroak"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Mandriva posta zerrendak"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Bizkorra, berritzailea, irekia"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Bilakatu zure mahaigaina multimedia gune edo netbook ingurune arina: Klik "
+"egitea bezain erraza da. Sarbide osoa duzu milaka softwareetara: multimedia, "
+"bulegotika sistemak, grafikoak, Internet, garapena... Hobetu zure mahaigain "
+"esperientzia eta jaso Sistema Eragile bat baino askoz gehiago!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "%100 Aske / Iturburu irekiko<br/>banaketa"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Probatzeko erraza eta mantentzeko erraza den <br/> Linux idaztegia"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Oraindik gehiago daukan<br/> Mandriva Linux banaketa"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Mandriva Linux diruz ere lagundu dezakezu."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Mandriva Linux lagundu dezakezu."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Zure mahaigaina zure beharretara egokitzen da."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Zure mahaigaina oraindik bizkorra da!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Zure mahaigaina erraza eta segurua da."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Zuzenean atzitu Mandriva software gordetegiak eta baliatu zaitez milaka "
+#~ "softwaretaz: multimedia, bulegotika sistemak, grafikoak, Internet, "
+#~ "garapena ... Guztia eskuragarri duzu klik gutxi batzuk eginez. "
+#~ "Irekitasuna eta erabil erraztasuna zure datuen segurtasunaren eskutik "
+#~ "doaz."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Deskubritu oraindik berrikuntza gehiago"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Sistema eragile bat baino azkoz ere gehiago, ingurune erraz, oso eta "
+#~ "seguru bat aurkituko duzu."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Zure mahaigaina sorpresaz beteta dago. Bilakatu zure idaztegia multimedia "
+#~ "gune klik soil batekin Moovida-ri esker. Deskubritu mahaigain "
+#~ "eramagarriei eskeinitako ingurune berriak Moblin-ekin: hobetu zure "
+#~ "mahaigain esperientzia, mugikortasunean oinarrituta."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Erraztasun eta segurtasun kontzentratu bat"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Idaztegi ingurune oso eta pertsonalizatu bat"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Bi oinarrizko ezaugarriak batera eskainita! Mandriva tresnek zure Linux "
+#~ "idaztegiaren erabilera errazten dute. Etxeko sare lotura edo lotura "
+#~ "mugikorra: Klik egitea bezain erraza! Partekatu zure dokumentuak nola "
+#~ "egin behar den pentsatu beharrik gabe! Eskuratu Mandriva software "
+#~ "gordetegi ofizialetara sarbide zuzena eta 20.000 pakete erabilgarrietaz "
+#~ "baliatu. Errazak ez du ez-seguru esan nahi. Mandriva, guraso-kontrol "
+#~ "tresna bat eta suhesi pertsonal oso ahaltsu batekin batera instalatzen "
+#~ "da. Zure datu pertsonalak erabat seguru daude!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Lagundu Mandrivari hardware bateragarritasun datubase bat eraikitzen"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Berritzaile eta egonkorra"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Mandriva Linux-ek aukera ematen dizu: egin zure ingurune propioa zure "
+#~ "beharretara eta hobespenetara egokituko dena. Pertsonalizagarria, "
+#~ "modularra, eskalagarria, eraginkorra eta ikuspen efektuz betea hala nahi  "
+#~ "baduzu: zure aukera da eta edozein lekutan erabilgarria da, hardware "
+#~ "zaharrenetik berrienera."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux iturburu irekidun software berritzaile, ahaltsu eta "
+#~ "egonkorrenaren multzo bat da. Ofimatika suitea, berehalako mezularitza, "
+#~ "multimedia (irudiak, audioa, bideoa): zure idaztegia osorik dago eta zure "
+#~ "ezagunek dituztenekin guztiz bateragarria."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Mandrivak komunitatearen hardware bateragarritasun datubase bat ezarri "
+#~ "du, erabiltzaileei nork bere hardwarearen bateragarritasunari buruzkoak "
+#~ "aurkitzen laguntzeko helburuarekin eta euskarriaren hobekuntzak "
+#~ "jarraitzeko. Parte hartu nahi bazenu, zure sistemaren hardware zerrenda "
+#~ "bidali dezakezu eta Linuxen bere performantzia balioztatu. Beste "
+#~ "erabiltzaile batzuek informazio hau erabili ahalko dute. Informazioa ez "
+#~ "dago zure informazio pertsonalarekin inolaz ere lotuta, zure "
+#~ "pribatutasuna bermatuz. <a target=\"_blank\" href=\"http://hcl.mandriva."
+#~ "com\"> Laguntza ematea azkarra eta erraza da</a>."

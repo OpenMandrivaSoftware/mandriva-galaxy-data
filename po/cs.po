@@ -1,0 +1,252 @@
+# Translation of cs.po to Czech
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Michal Bukovjan <bukm@centrum.cz>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: cs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-21 22:27+0200\n"
+"Last-Translator: Michal Bukovjan <bukm@centrum.cz>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Kompletní sada pro všechny vaše potřeby. Zahrnuje plnou podporu netbooků!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Jednoduchá použitelnost jde ruku v ruce se zabezpečením dat vás a vaší "
+"rodiny. Mandriva Linux obsahuje kompletní sadu propracovaných nástrojů na "
+"správu systému. Nastavení tiskárny, sítě a správa mobility, dále také osobní "
+"firewall, kontrola přístupu dětí k internetu a k aplikacím… Vaše prostředí "
+"je zdarma, jednoduché a zcele bezpečné!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Podpořte Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Jak přispět k Mandriva Linuxu"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Nainstalujte Mandriva Linux 2011 a připojte se k otevřenému světu."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Komunita Mandriva je místem, kde získáte ty nejlepší zkušenosti s distribucí "
+"Mandriva Linux, naučíte se něco od ostatních, naučíte něco ostatní a budete "
+"mít přístup k exkluzivním vlastnostem a možnost přispět k vývoji distribuce "
+"Mandriva Linux a otevřeného a svobodného softwaru obecně. Ať už jsou vaše "
+"technické schopnosti jakékoli, připojte se k nám pro nadcházející verze "
+"distribuce."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux vám umožňuje přizpůsobit si prostředí vašim potřebám. "
+"Personalizovatelné, modulární, škálovatelné, efektivní a plné vizuálních "
+"efektů, pokud si to tak přejete: vyberte si. Objevte jako exkluzivitu "
+"všechny funkce chytrého pracovního prostředí. Definujte vaše prostředí v "
+"závislosti na tom, jak jej používáte. Označte své dokumenty, vaše obrázky, "
+"vaše emaily, identifikujte vaše projekty."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Fóra Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Elektronické konference Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva Wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Chytré, novátorské, otevřené"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Udělejte ze svého počítače multimediální centrum nebo jednoduché prostředí "
+"pro netbook: jednoduše kliknutím. Máte plný přístup k tisícům softwaru: "
+"multimédiím, kancelářským balíkům, internetu, nástrojům pro vývoj a grafiku… "
+"Zlepšete svou zkušenost s desktopem a získejte více než Operační systém!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "100% svobodná / otevřená<br/> distribuce"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Linuxové pracovní prostředí,<br/> jednou zkusíte a nechcete jiné"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Distribuce Mandriva Linux<br/> vždy s něčím navíc"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Můžete také přispět distribuci Mandriva Linux finančně."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Můžete přispět k distribuci Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Vaše prostředí vyhovuje vašim potřebám."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Vaše prostředí je ještě chytřejší!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Vaše prostředí je jednoduché a bezpečné."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Přistupujte přímo k repositářům se softwarem Mandriva a využijte tisíců "
+#~ "softwarových titulů: multimédia, kancelářské systémy, grafiku, Internet, "
+#~ "vývoj… Vše je dostupné už po několika klepnutích myší. Otevřenost a "
+#~ "jednoduché použití jde ruku v ruce s bezpečností vašich dat."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Objevte ještě více inovací"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Daleko více než jen operační systém, objevíte jednoduché, kompletní a "
+#~ "bezpečné prostředí."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Vaše pracovní prostředí je klubko překvapení. Přepněte vaše prostředí "
+#~ "klepnutím myši na multimediální centrum díky aplikaci Moovida. Objevte "
+#~ "nové prostředí zaměřené na mobilní prostředí s aplikací Moblin; zlepšete "
+#~ "svou zkušenost s pracovním prostředím, se zaměřením na mobilitu."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Spojení jednoduchosti a bezpečnosti"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Kompletní a přizpůsobené pracovní prostředí"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Obě nezbytné vlastnosti nabízené dohromady! Nástroje Mandriva zjednoduší "
+#~ "získání zkušeností s pracovním prostředím. Síťové připojení z domova nebo "
+#~ "připojení mobilní: je to tak jednoduché jako kliknutí! Sdílejte vaše "
+#~ "dokumenty bez přemýšlení o tom, jak to dělat! Získejte přímý přístup k "
+#~ "oficiálním zdrojům software Mandriva a využijte více než 20 000 "
+#~ "dostupných balíčků. Jednoduché neznamená nebezpečné. Mandriva Linux je "
+#~ "instalován spolu s nástrojem pro rodičovskou kontrolu a velmi výkonným "
+#~ "osobním firewallem. Vaše osobní data jsou zcela zabezpečená!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Pomozte společnosti Mandriva sestavit databázi kompatibility hardwaru"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Inovativní a stabilní"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Mandriva Linux vám dává možnosti: vytvořte si vaše vlastní prostředí, "
+#~ "které bude vyhovovat vašim potřebám a vašim zájmům. Přizpůsobivé, "
+#~ "modulární, škálovatelné, efektivní a plné vizuálních efektů, pokud si to "
+#~ "přejete: je to na vás a použitelné na čemkoli, od nejstaršího hardwaru po "
+#~ "nejnovější."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux je sadou nejinovativnějšího, výkonného a stabilního "
+#~ "softwaru s otevřenými zdroji. Kancelářské balíky, rychlá výměna zpráv, "
+#~ "multimédia (obrázky, audio, video): vaše pracovní prostředí je kompletní "
+#~ "a plné funkcí kompatibilních se všemi vašimi známými."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Mandriva dala dohromady komunitní databázi kompatibilního hardwaru, která "
+#~ "si klade za cíl pomoci uživatelům Linuxu zjistit kompatibilitu jejich "
+#~ "hardwaru a sledovat pokrok v jeho podpoře. Pokud se chcete zúčastnit, "
+#~ "můžete nám poslat seznam hardwaru ve vašem systému a ohodnotit jeho "
+#~ "fungování v systému Linux. Ostatní uživatelé pak mohou tyto informace "
+#~ "využít. Tyto informace nejsou žádným způsobem spojeny s vašimi osobními "
+#~ "údaji a garantujeme vaše soukromí. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> Je jednoduché a rychlé přispět.</a>"

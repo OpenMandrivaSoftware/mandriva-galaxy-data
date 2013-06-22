@@ -1,0 +1,258 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# $Id: uk.po 262924 2009-10-28 10:39:20Z fisher $
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2009.
+# Тарас Бойчук <boychuk_t@ndpi.ukrnafta.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: mandrake-galaxy-data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-21 08:36+0300\n"
+"Last-Translator: Тарас Бойчук <boychuk_t@ndpi.ukrnafta.com>\n"
+"Language-Team: Ukrainian <kde-i18n-doc@kde.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr "Все для задоволення Ваших потреб. Повноцінна підтримка субноутбуків!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Простота в користуванні не заважає безпеці Ваших даних. Mandriva має повний "
+"набір потужних інструментів адміністрування. Налаштування друкарок, мережі, "
+"керування мобільністю, крім того персональний захисний шлюз, контроль "
+"доступу дітей до мережі і програм... Ваше оточення є відкритим, простим і "
+"повністю безпечним!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Фінансування Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Як зробити внесок до Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Встановіть Mandriva Linux 2011 і приєднайтеся до Відкритого світу."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Участь у спільноті користувачів Mandriva надасть Вам змогу максимально "
+"скористатися можливостями Mandriva Linux, ознайомитися з досвідом інших "
+"користувачів, допомогти у навчанні іншим користувачам, отримати доступ до "
+"особливих можливостей і зробити внесок до розвитку Mandriva Linux та "
+"вільного і відкритого програмного забезпечення загалом. Якими б не були Ваші "
+"технічні навички, Ви можете допомогти нам у створенні майбутніх версій "
+"дистрибутива."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"У Mandriva Linux Ви без перешкод можете налаштувати своє робоче середовище "
+"згідно до потреб. Робоче середовище буде персоніфікованим, модульним, "
+"масштабованим, ефективним, Ви зможете скористатися будь-якими візуальними "
+"ефектами: достатньо просто вказати потрібні. Особливістю дистрибутива є "
+"можливість використання інтелектуальної стільниці. Ви зможете вказати "
+"параметри середовища на основі його призначення, позначити ваші документи, "
+"зображення, повідомлення електронної пошти, вказати мітки проектів. "
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Форуми Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Списки листування Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Вікі Mandriva"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Інтелектуальність, інновації, відкритість"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Перетворіть свою стільницю на мультимедійний центр: достатньо просто "
+"клацнути мишкою. Ми маєте повний доступ до тисяч програм: мультимедія, "
+"офісні системи, графіка, інтернет, розробка... Налаштуйте стільницю "
+"відповідно до своєї спеціалізації і отримайте більше, ніж операційну систему!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "100% вільний дистрибутив<br/>з відкритим кодом"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Стільниця Linux — просто <br/>спробувати, просто користуватися"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Дистрибутив Mandriva Linux<br/>з додатковими можливостями"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Крім того, Ви можете допомогти Mandriva Linux фінансуванням."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Ви можете зробити власний внесок до Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Ваша стільниця вміє підлаштовуватися під Ваші потреби."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Ваша стільниця навіть ж розумною!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Ваша стільниця є простою і безпечною."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Отримайте прямий доступ до сховищ програмного забезпечення Mandriva і "
+#~ "скористайтеся перевагами тисяч програмних продуктів: мультимедійних, "
+#~ "офісних систем, програм для роботи з графікою, інтернетом, розробки "
+#~ "програмного забезпечення... Доступ до всіх цих можливостей можна "
+#~ "здійснити у декілька клацань кнопкою миші. Відкритість та простота у "
+#~ "користуванні разом з забезпеченням безпеки ваших даних."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Ознайомлення з іншими інноваціями"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Набагато більше, ніж просто операційна система: ви зможете користуватися "
+#~ "простим, повнофункціональним та безпечним середовищем."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Ваша стільниця приємно здивує вас. Ви зможете одним клацанням перемкнути "
+#~ "вашу стільницю у режим мультимедійного центру завдяки Moovida. Відкрийте "
+#~ "нові горизонти мобільної стільниці за допомогою Moblin: покращіть роботу "
+#~ "у стільниці, за допомогою особливих налаштувань для мобільних пристроїв."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Поєднання простоти і безпеки"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Повноцінне, створене особисто для вас стільничне середовище"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Обидві основні можливості одразу! Інструменти Mandriva спростять вам "
+#~ "роботу зі стільницею Linux. З’єднання з домашньою мережею чи мобільне "
+#~ "з’єднання? Достатньо одного клацання кнопкою миші! Отримайте "
+#~ "безпосередній доступ до офіційних сховищ програмного забезпечення "
+#~ "Mandriva і скористайтеся будь-яким з понад 20.000 доступних пакунків. Але "
+#~ "простота не означає втрати безпеки. Разом з Mandriva Linux встановлюється "
+#~ "інструмент батьківського контролю і дуже потужний особистий брандмауер. "
+#~ "Ваші особисті дані будуть у безпеці!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr "Допоможіть Mandriva побудувати базу даних сумісності обладнання"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Інноваційна і стабільна"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "У Mandriva Linux ви зможете самі обрати середовище, що відповідатиме "
+#~ "вашим потребам і уподобанням. Придатне до налаштування, модульне, "
+#~ "масштабоване, ефективне середовище з багатьма візуальними ефектами: все "
+#~ "це ви зможете налаштувати і використовувати будь-де: від застарілого "
+#~ "обладнання до найновішого."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux належить до переліку найсучаснішою, найпотужнішого і "
+#~ "найстабільнішого програмного забезпечення з відкритими кодами. Комплекс "
+#~ "офісних програм, обмін миттєвими повідомленням, мультимедійні можливості "
+#~ "(зображення, звук, відео): у вашій стільниці будуть всі потрібні для "
+#~ "задоволення цих потреб програми."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "У Mandriva передбачено базу даних сумісності обладнання спільноти, за "
+#~ "допомогою якої користувачі Linux можуть ознайомитися з відомостями щодо "
+#~ "сумісності обладнання з дистрибутивом, а також слідкувати за покращеннями "
+#~ "у підтримці. Якщо ви бажаєте взяти участь у складанні цієї бази даних, ви "
+#~ "можете надіслати нам список апаратного забезпечення на вашому комп’ютері "
+#~ "і оцінити рівень його підтримки у Linux. Згодом інші користувачі зможуть "
+#~ "скористатися наданими вами відомостями. Серед поданих вами даних не буде "
+#~ "ніяких особистих відомостей, ми гарантуємо конфіденційність ваших даних. "
+#~ "<a target=\"_blank\" href=\"http://hcl.mandriva.com\">Зробити внесок дуже "
+#~ "просто.</a>"

@@ -1,0 +1,174 @@
+# translation of nb.po to Norwegian Bokmål
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Olav Dahlum <odahlum@gmail.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: nb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-22 18:22+0200\n"
+"Last-Translator: Olav Dahlum <odahlum@gmail.com>\n"
+"Language-Team: Norwegian Bokmål <cooker-i18n@mandrivalinux.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"En komplett spekter for alle dine behov. Inkludert full støtte for "
+"minibærbare."
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Brukervennlighet går hånd i hånd med sikkerheten til dine data og din "
+"familie. Mandriva Linux kommer med en rekke kraftige administrasjonverktøy. "
+"Skriveroppsett, nettverk og tilgjengelighet, men også personlig brannmur, "
+"nettverk og programtilgangkontroll for barn … Ditt skriverbord er fritt, "
+"brukervennlig og sikkert."
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Finansier Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Hvordan bidra til Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr "Installer Mandriva Linux 2011 og bli med i en åpen verden."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Miljøet rundt Mandriva er hvor man finner den beste erfaringen. Få tilgang "
+"til enestående funksjoner og bidra til utviklingen av Mandriva Linux og Fri/"
+"Åpen Kildekode. Kom og bli med oss i utviklingen av kommende versjoner, "
+"uavhengig av ditt tekniske nivå."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux lar deg føle friheten til å stille inn miljøet etter egne "
+"behov. Personlig, modulært, skalerbar, effektivt og fullt av visuelle "
+"effekter. Oppdage alle funksjonene i et smart skrivebord og still inn "
+"miljøet basert på bruken av det. Sett etiketter på dokumenter, bilder og e-"
+"poster, identifiser prosjektene. Skrivebordet vil tilpasses bruken du har "
+"planlagt."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Mandriva forumer"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Mandriva e-postlister"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva Wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Smart, innovativ, åpen"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Endre ditt skrivebord til en multimediasenter, eller et lett miljø tilpasset "
+"minibærbare: Det er så enkelt som et klikk. Du har tilgang til tusenvis av "
+"programvare, som multimedia, kontorprogrammer, grafikk, Internett, utvikling "
+"… Forbedre din skrivebordopplevelse og få mer enn et operativsystem."
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "Den 100% Fri / Åpen kildekode-<br/>distribusjonen"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Linux-skrivebordet som er <br/> lett å prøve og enkelt å beholde"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Mandriva Linux-distribusjonen<br/> med enda mer"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Du kan også bidra til Mandriva Linux ved å finansiere den."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Du kan bidra til Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Skrivebordet som passer dine behov."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Skrivebordet ditt er ennå mer intelligent!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Skrivebordet er enkelt og sikkert."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Få direkte tilgang til programvarearkiver og dra nytte av tusenvis av "
+#~ "programvare, multimedia, kontorsystemer, grafikk, Internett og utvikling "
+#~ "… Alt tilgjengelig med noen få klikk. Åpent og klart til bruk går hånd i "
+#~ "hånd med sikkerheten til dine data."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Oppdage flere nyskapninger"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Så mye mer enn et operativsystem … Oppdage et enkelt, komplett og sikkert "
+#~ "miljø."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Skrivebordet ditt er en bikube med overraskelser. Gjør med et klikk om "
+#~ "skrivebordet til en multimediasenter takket være Moovida. Bli også kjent "
+#~ "med Moblin, det nye miljøet dedikert til det mobile skrivebordet."

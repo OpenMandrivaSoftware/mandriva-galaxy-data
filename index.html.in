@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr">
+	<head>
+		<title>Mandriva Linux 2011</title>
+		<link rel="stylesheet" media="screen" type="text/css" href="style/screen.css" />
+	</head>
+	<body>
+		<div id="content">
+			<div id="title">
+			</div>
+			<_div id="title2">Smart, Innovative, Open</_div>
+			<ul class="focus">
+				<li><img src="style/images/img1.png" alt="Smart" />
+					
+					<_h3>Your desktop is even smarter!</_h3>
+					<_p>Mandriva Linux makes you all free to configure your environment for your needs. 
+					Personalizable, modular, scalable, efficient and full of visual effects if you so wish: 
+					take your pick. As an exclusivity, discover all functionalities of smart desktop. 
+					Define your environment based on the use you put it to. Label your documents, your images, 
+					your emails, identify your projects. .</_p>
+				</li>
+				<li><img src="style/images/img2.png" alt="Needs" />
+					<_h3>Your desktop fits your needs.</_h3>
+					<_p>Switch your desktop into a multimedia center or a light netbook environment: it's as easy as a click.
+					You have full access to thousands of softwares: multimedia, office system, graphics, Internet, development...
+					Improve your desktop experience and get more than an Operating System!.</_p>
+				</li>
+				<li><img src="style/images/img3.png" alt="Easy" />
+					
+					<_h3>Your desktop is simple and secure.</_h3>
+					<_p>Easy-to-use goes hand in hand with the security of your data and your family. Mandriva Linux comes with
+					a full set of powerfull administration tools. Printer configuration, network and mobility management,
+					but also personal firewall, network and applications access control for children... Your environment is free,
+					easy and all secure!</_p>
+				</li>
+			</ul>
+			<div class="clear"></div>
+
+<_div id="title2">Install Mandriva Linux 2011 and join an Open world.</_div>
+<_h3>A complete range for all your needs. Full support for netbooks included!</_h3>			
+
+			<ul class="focus">
+				<li>
+					<a href="http://www.mandriva.com/en/download" target="_blank">
+					<img src="style/images/free-galaxy2010.png" alt="Free" /></a>	
+					<_h3>The 100% Free / Open Source<br />distribution</_h3>
+				</li>
+				
+				<li>	
+					<a href="http://www.mandriva.com/en/download" target="_blank">
+					<img src="style/images/one-galaxy2010.png" alt="One" />	</a>	
+					<_h3>The Linux desktop that's <br />easy to try and easy to keep</_h3>
+				</li>
+				
+				<li>	
+					<a href="http://www.mandriva.com/en/product/mandriva-linux-powerpack" target="_blank">
+					<img src="style/images/pwp-galaxy2010.png" alt="Powerpack" /></a>
+					<_h3>The Mandriva Linux distribution<br />with even more</_h3>
+				</li>
+			</ul>
+			<div class="clear"></div>
+			<br />
+			<ul>
+				<li><_h3>You can contribute to Mandriva Linux.</_h3>
+				<_p>Mandriva Community is where you get the best Mandriva Linux experience, learning from others, 
+				teaching others, accessing exclusive features and contributing to the development of Mandriva Linux 
+				and Free and Open Source Software in general. Whatever your technical skills are, join us for  
+				coming distribution versions.</_p>
+			<ul>
+        			<li><a href="http://www2.mandriva.com/community/contribute"><_span>Howto Contribute to Mandriva Linux</_span></a></li>
+        			<li><a href="http://forum.mandriva.com"><_span>Mandriva forums</_span></a></li>
+			        <li><a href="http://lists.mandriva.com"><_span>Mandriva mailing lists</_span></a></li>
+			        <li><a href="http://wiki.mandriva.com"><_span>Mandriva wiki</_span></a></li>
+			</ul>
+				</li>
+
+				<li><_p>You can also contribute to Mandriva Linux funding it.</_p>
+			<ul>
+			        <li><a href="http://www2.mandriva.com/community/fund/"><_span>Fund Mandriva Linux</_span></a></li>
+			</ul>
+				</li>
+			</ul>
+			<br />
+			<div class="bottom"></div>
+
+</div>
+	</body>
+</html>

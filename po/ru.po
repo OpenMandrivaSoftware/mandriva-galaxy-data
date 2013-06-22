@@ -1,0 +1,184 @@
+# translation of ru.po to Russian
+# Translation of mandriva-galaxy-data messages to Russian
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Alexander Kazancev <kazancas@mandriva.ru>, 2009.
+# Pavel Maryanov <acid_jack@ukr.net>, 2009.
+# akdengi <kazancas@mandriva.ru>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-22 17:13+0300\n"
+"Last-Translator: Alexander Kazancev <kazancas@mandriva.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Полный набор необходимых средств и инструментов. Поддержка нетбуков «из "
+"коробки»!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Легкость в использовании идет рука об руку с безопасностью ваших данных и "
+"вашей семьи. Mandriva Linux поставляется с полным набором мощных средств "
+"управления. Настройка принтера, сети и управление мобильными устройствами, а "
+"также персональный брандмауэр, контроль доступа детей к интернет и "
+"приложениям. Ваше рабочее окружение свободно, просто в использовании и "
+"абсолютно надежно!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Внесите вклад в Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Как принять участие в работе над Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Установите Mandriva Linux 2011 и присоединяйтесь к миру открытого ПО."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Сообщество Mandriva Linux это место, где вы можете получить наилучший опыт "
+"работы с Linux, поучиться у других, обучить других, получить доступ к "
+"эксклюзивным возможностям и принять участие в разработке Mandriva Linux, а "
+"также другого Открытого и Свободного ПО. Вне зависимости от вашего уровня "
+"знаний, мы будем рады, если вы к нам присоединитесь начиная с новой версии "
+"дистрибутива."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux позволяет вам легко настраивать окружение под ваши "
+"требования. Персонализируемая, модульная и полная визуальных эффектов, она "
+"готова поддержать ваши запросы. Также опробуйте эксклюзивную "
+"функциональность \"умного\" рабочего стола. Задайте ваше окружение на основе "
+"того, что вы в него поместите. Помечайте ваши документы, изображения, почту, "
+"идентифицируйте ваши проекты. "
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Форумы Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Рассылки Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Вики Mandriva"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Ум, Инновации. Открытость"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Переключите ваш рабочий стол в режим мультимедийного центра или легкого "
+"окружения для нетбука: для этого достаточно кликнуть мышкой. Вы получите "
+"полный доступ к тысяче единиц программного обеспечения: мультимедиа, офисным "
+"приложениям, графике, интернет-приложениям, ПО для разработки и многому "
+"другому. Улучшите свое окружение и получите больше, чем операционную систему!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "На 100% свободный дистрибутив с открытым<br/>исходным кодом"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr ""
+"Настольная среда Linux, которую <br/>легко попробовать и от которой вы уже "
+"не откажетесь"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Дистрибутив Mandriva Linux<br/> с неограниченными возможностями!"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Вы также можете помочь Mandriva, внеся денежный вклад."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Вы можете участвовать в развитии Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Ваш рабочий стол соответствует вашим потребностям."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Ваш рабочий стол даже разумен!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Ваш рабочий стол прост и безопасен."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Подключитесь к программным источникам Mandriva и получите доступ к "
+#~ "тысячам программ: для мультимедиа, офиса, графики, интернет, "
+#~ "разработки... Все это дуступно за пару кликов мыши. Открытость и легкость "
+#~ "в использовании сочетаются с безопасностью ваших данных."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Исследуйте еще больше инноваций"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Открыв для себя простое, наполненное и безопасное окружение, вы получите "
+#~ "больше, чем просто операционную систему."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Ваш компьютер полон сюрпризов. Превратите его в мультимедиа центр с "
+#~ "помощью Moovida. Откройте новые горизонты мобильных устройств с Moblin, "
+#~ "нацеленного на улучшения работы с ними."

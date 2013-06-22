@@ -1,0 +1,258 @@
+# translation of index.po to Spanish
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andre Paulo Machado <andre.panm@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data_es\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-25 17:03-0300\n"
+"Last-Translator: Diego Bello Carreño <dbello@gmail.com>\n"
+"Language-Team: Español <es@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Una gama completa para todas sus necesidades. ¡Incluyendo soporte completo "
+"para miniportatiles (netbooks)!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"La facilidad de uso va de la mano con la seguridad de sus datos y los de "
+"sufamilia. Mandriva Linux viene con un conjunto completo de "
+"poderosasherramientas de administración: configuración de impresoras, "
+"gestiónde redes y movilidad, y también un cortafuegos personal y controlde "
+"acceso de aplicaciones y de Internet para niños... ¡Su entorno eslibre, "
+"fácil y plenamente seguro!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Patrocine a Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Cómo contribuir con Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr "Instale Mandriva Linux 2011 y forme parte de un Mundo Abierto."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"La Comunidad Mandriva es donde se obtiene la mejor experiencia Mandriva "
+"Linux, aprendiendo de otros, enseñando a otros, accediendo a características "
+"exclusivas y contribuyendo al desarrollo del Mandriva Linux y de "
+"aplicaciones de Código Abierto en general. Sean cuales sean sus habilidades "
+"técnicas, únase a nosotros para futuras versiones."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux le da la libertad de configurar su ambiente de acuerdo a sus "
+"necesidades. Personalizable, modular, escalable, eficiente y lleno de "
+"efectos visuales si así lo desea: haga su elección. Como exclusividad, "
+"descubra todas las funcionalidades del escritorio inteligente (smart "
+"desktop). Defina su ambiente de acuerdo al uso que le da. Etiquete sus "
+"documentos, sus imágenes, sus correos electrónicos, identifique sus "
+"proyectos."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Foros de Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Listas de correo de Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Wiki de Mandriva"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Inteligente, Innovador, Abierto"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Transforme su computador en un centro multimedia o en un ambiente de netbook "
+"ligero: es tan fácil como hacer un click. Tendrá acceso a miles deprogramas: "
+"multimedia, entorno de oficina, gráficos, Internet,desarrollo... ¡Mejore su "
+"experiencia de escritorio y consiga mucho másque un sistema operativo!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "La distribución<br/>100% Libre / Código Abierto"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "El entorno Linux que es <br/>fácil de utilizar y mantenter"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "La distribución Mandriva Linux<br/>con aún más"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Tambien puede contribuir con Mandriva Linux patrocinándolo."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Usted puede contribuir con Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Su escritorio satisface sus necesidades."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "¡Su escritorio es aún mas inteligente!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "¡Su escritorio es simple y seguro!"
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Acceda directamente a los repositorios de aplicaciones y tome ventaja de "
+#~ "las miles de aplicaciones: multimedia, sistemas de oficina, gráficos, "
+#~ "Internet, desarrollo... Todo está disponible con sólo unos pocos clics. "
+#~ "Código abierto y facilidad de uso van de la mano con la seguridad de sus "
+#~ "datos."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Descubra aún mas innovaciones"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Mucho más que un Sistema Operativo, descubrirá un ambiente simple, "
+#~ "completo y seguro."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Su escritorio es una caja de sorpresas. Cambie su escritorio en un centro "
+#~ "multimedia con un solo clic gracias a Moovida. Descubra los nuevos "
+#~ "ambientes dedicados a escritorios móviles con Moblin: mejore su "
+#~ "experiencia de escritorio, enfocándose en movilidad."
+
+#, fuzzy
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Un conjunto de facilidad y securidad"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Un entorno de escritório completo y personalizado"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Ambas características esenciales son ofrecidas juntas! Las herramientas "
+#~ "de Mandriva hacen de su escritório Linux aún más fácil. Conexión "
+#~ "Doméstica o Móvil: Es tan fácil como hacer un clic! Compartir sus "
+#~ "documentos sin se preocupar cómo hacerlo! Obtener acceso directo a los "
+#~ "repositorios programas oficiales de Mandriva y aprovechar los más de "
+#~ "20.000 programas disponíbles. Fácil no significa anular la seguridad. El "
+#~ "Mandriva Linux instalado es equipado con una herramienta de control "
+#~ "parental y un cortafuegos personal muy poderoso. Sus datos personales "
+#~ "están completamente protegidos!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Ayude Mandriva a desarrollar la base de datos de compatibilidades de "
+#~ "hardware"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Innovador y estable"
+
+#, fuzzy
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Mandriva Linux le dá la opción: hacer su propio entorno que se ajuste a "
+#~ "sus necesidades y sus preferencias. Personalizable, modular, escalable, "
+#~ "eficiente y lleno de efectos visuales si los desea: depende de usted para "
+#~ "utilizarlo por toda parte, mismo en hardware más antiguo hasta el más "
+#~ "nuevo."
+
+#, fuzzy
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux es un conjunto de los más innovadores, poderosos y "
+#~ "estables softwares de código abierto. La suite de Oficina, mensajería, "
+#~ "multimedios (imágenes, sonido, vídeo): su escritório está completo y "
+#~ "lleno de funcionalidades compatibles conocidas."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Mandriva ha puesto en vigor una base de datos de compatibilidades de los "
+#~ "ordenadores de la comunidad para ayuda los usuarios de Linux a encontrar "
+#~ "la compatibilidad de su hardware, y acompañar el soporte. Si desea "
+#~ "participar, puede enviarnos la lista de hardware de su sistema y su tasa "
+#~ "de rendimiento bajo Linux. Otros usuarios pueden utilizar esta "
+#~ "información. La información no es asociada a sus datos personales de modo "
+#~ "ninguno, garantizando su privacidad. <a target=\"_blank\" href=\"http://"
+#~ "hcl.mandriva.com\"> Es rápido y fácil a contribuir.</a>"

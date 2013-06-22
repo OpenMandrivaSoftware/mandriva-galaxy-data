@@ -1,0 +1,290 @@
+# Translation of mandriva-galaxy-data.po to Romanian
+# Copyright (c) 1999-2010 Mandriva
+#
+# Vă rugăm să nu actualizaţi fișierul, cu excepția cazului în care sînteți
+# sigur de calitatea traducerii dumneavoastră, de gramatică și de ortografie.
+# Acestea din urmă sînt de prea multe ori aproximative.
+# Corectarea lor ulterioară nu are nici un alt rezultat decît acela de
+# pierdere de timp pentru toata lumea.
+#
+# VĂ RUGĂM SĂ RESPECTAȚI SEMNELE DE PUNCTUAȚIE ALE LIMBII ROMÂNE!
+#
+# Nu suprimați spațiul care urmează unui semn de punctuație de sfîrșit de
+# frază; trebuie respectată versiunea originală. În acest caz, este foarte
+# probabil ca programul să afișeze un mesaj la sfîrșit. Suprimînd acel spațiu,
+# cele două cuvintele vor fi afișate legat.
+#
+# Traduceți de manieră INTELIGENTĂ (de ce nu și prin comparație cu alte
+# traduceri ale acestui fișier în alte limbi) și nu cuvînt cu cuvînt. Unele
+# astfel de traduceri nu au nici un sens în limba română.
+#
+# ATENȚIE LA FONTURILE UTILIZATE! Pentru a reda corect diacriticele folosiți
+# disponerea tastaturii românească standard, codarea de caractere UTF-8 și
+# asigurați-vă că fonturile utilizate sînt cu virgulițe, NU CU SEDILE!
+# Exemplu:
+#          font incorect (cu sedile): şŞ ţŢ
+#          font corect (cu virgule): șȘ țȚ
+#
+# Pentru a vă asigura că folosiți fonturile corecte, vizitați:
+#          http://i18n.ro/Fonturi_romanesti/testare
+#
+# Vă mulțumim pentru înțelegere.
+#                                                       Echipa de traducători,
+#                                                       www.Mandrivausers.ro
+#
+# Traducători de-a lungul timpului:
+#
+#
+# Florin Cătălin RUSSEN <cfrussen@yahoo.co.uk>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-21 13:54+0100\n"
+"Last-Translator: Cătălin Florin RUSSEN <cfrussen@yahoo.co.uk>\n"
+"Language-Team: Romanian <cooker-i18n@mandrivalinux.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3;plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1))\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"O gamă completă pentru toate nevoile voastre. Suport complet pentru "
+"miniportabile inclus!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Ușurința în utilizare mege mînă-n mînă cu securitatea datelor voastre și a "
+"familiei. Mandriva Linux vine cu un set complet de unelte puternice de "
+"administrare. Configurarea imprimantei, gestiunea rețelei și a mobilității, "
+"dar și un parafoc personal, controlul accesului la aplicații și rețea pentru "
+"copii... Mediul vostru de lucru este liber, facil și complet securizat!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Finanțați Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Cum să contribuiți la Mandriva Linux"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Instalați Mandriva Linux 2011 și alăturați-vă unei lumi deschise."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Comunitatea Mandriva este locul unde beneficiați de cea mai bună experiență "
+"Mandriva Linux, învățînd de la unii, învățîndu-i pe alții, accesînd "
+"funcționalități exclusive și contribuind la dezvoltarea Mandriva Linux și a "
+"programelor libere și cu sursă deschisă în general. Indiferent de "
+"competențele voastre tehnice, alăturați-vă nouă pentru versiunile ce vor "
+"veni."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux vă permite să vă configurați un mediu de lucru adaptat "
+"nevoilor voastre. Personalizabil, modular, scalabil, eficient și plin de "
+"efecte vizuale dacă doriți. Ca o exclusivitate, descoperiți toate "
+"funcționalitățile unui birou inteligent. Definiți-vă mediul de lucru în "
+"funcție de modul în care-l utilizați. Etichetați-vă documentele, imaginile, "
+"mesajele electronice și identificați-vă proiectele."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Forumurile Mandriva"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Listele de difuziune Mandriva"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Inteligent, Inovant, Deschis"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Transformați-vă biroul într-un centru multimedia, sau într-un mediu lejer de "
+"miniportabil, cu ușurința unui clic. Dispuneți de un acces la mii de "
+"programe: multimedia, suite de birotică, grafică, Internet, dezvoltare... "
+"Ameliorați-vă experiența cu biroul personal și obțineți mai mult decît un "
+"simplu sistem de operare! "
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "Distribuția 100% liberă <br/>cu sursă deschisă"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "Biroul Linux ușor de <br/>încercat și adoptat"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Distribuția Mandriva Linux <br/>oferind mereu mai mult"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "De altfel puteți contribui financiar la Mandriva Linux."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Puteți contribui la Mandriva Linux."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Biroul se potrivește nevoilor voastre."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Biroul vostru este chiar inteligent!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Biroul vostru este simplu și securizat."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Accesați direct depozitele Mandriva cu pachete și profitați de mii de "
+#~ "programe de: multimedia, birotică, grafică, internet, dezvoltare... Totul "
+#~ "disponibil în cîțiva clici. Deschis și ușor de utilizat, mînă-n mînă cu "
+#~ "securitate datelor voastre."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Descoperiți și mai multe inovații"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Mult mai mult decît un sistem de operare, veți descoperi un mediu simplu, "
+#~ "complet și securizat."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Biroul vostru este o cutie cu surprize. Într-un clic transformați-vă "
+#~ "biroul într-un centru multimedia cu ajutorul lui Moovida. Descoperiți "
+#~ "noile medii dedicate bitorului mobil cu Moblin: ameliorați-vă experiența "
+#~ "cu biroul, concentrîndu-vă pe mobilitate."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Un concentrat de simplitate și securitate"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Un mediu de birou complet și personalizat"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Două funcționalități esențiale oferite simultan! Uneltele Mandriva vă "
+#~ "facilitează experiența cu biroul Linux. Conexiunea la rețeaua domestică "
+#~ "sau mobilă: simplă ca un clic! Partajați-vă documentele fără să vă "
+#~ "gîndiți cum se face! Accesați în direct la toate depozitele Mandriva și "
+#~ "profitați de mai mult de 20 000 de pachete disponibile. Facil nu înseamnă "
+#~ "nesecurizat. Mandriva Linux dispune de o unealtă de control parental și "
+#~ "un puternic parafoc personal. Datele voastre personale sînt complet "
+#~ "securizate!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Ajutați Mandriva să construiască o bază de date de componemte materiale "
+#~ "compatibile"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Inovativ și stabil"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Mandriva Linux vă oferă o libertate totală: configurați-vă mediul de "
+#~ "lucru pe măsura nevoilor și preferințelor. Personalizabil, modular, "
+#~ "scalabil, eficient și plin de efecte vizuale dacă asta doriți: voi "
+#~ "decideți! Poate fi utilizat oriunde, de pe cel mai vechi calculator pînă "
+#~ "pe cel mai recent."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux este o colecție a celor mai inovative, puternice și "
+#~ "stabile programe libere. Suită de birotică, mesagerie instantanee, "
+#~ "multimedia (imagini, audio, video): biroul vostru este complet și plin de "
+#~ "funcționalități compatibile cu cele de care dispun prietenii voștrii."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Mandriva a creat o bază de date comunitară de compatibilitate a "
+#~ "componentelor materiale, cu scopul de-a oferi utilizatorilor de Linux "
+#~ "informații despe componentele lor materiale și să poată urmări "
+#~ "ameliorarea supotrului acestora. Dacă doriți să participați, ne puteți "
+#~ "trimite lista componentelor sistemului vostru și le puteți evalua "
+#~ "performanța pe Linux. Ceilalți utilizatori se pot servi de aceste "
+#~ "informații. Aceste informații nu au nici o legătură cu datele voastre "
+#~ "personale și nu reprezintă nici un atentat la viața voastră privată. <a "
+#~ "target=\"_blank\" href=\"http://hcl.mandriva.com\"> Este simplu și ușor "
+#~ "să contribui.</a>"

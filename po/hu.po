@@ -1,0 +1,256 @@
+# mandriva-galaxy-data by Mandriva.
+# Copyright (C) GPL
+# This file is distributed under the same license as the mandriva-galaxy-data package.
+# Gergely Lónyai <aleph@mandriva.org>, 2009, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data-2010.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-21 10:18+0100\n"
+"Last-Translator: Gergely Lónyai <aleph@mandriva.org>\n"
+"Language-Team: Hungarian <aleph@mandriva.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Tartalmaz minden szükséges programot. Beleértve minden netbook támogatását!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"A könnyű használat és az adatbiztoság szükséges Önnek is és a családjának "
+"is. A Mandriva Linux egy teljes készletet kínál önnek az erőteljes "
+"adminisztrációs eszközökből. A nyomtató beállítása, a hálózat és mobil "
+"eszközök kezelése, személyes tűzfal, hálózat- és alkalmazás-korlátozás a "
+"gyerekek miatt... Az Ön környezete szabad, könnyű, biztonságos!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Mandriva Linux Alap"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Hogyan tud közreműködni a Mandriva Linux fejlesztésében"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr ""
+"Telepítse a Mandriva Linux 2011 kiadását és csatlakozzon a Nyitott "
+"világhoz"
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"A Mandriva Közösség a legjobb út, hogy további ismeretet szerezzen a "
+"Mandriva Linuxról. Tanulhat másoktól, segíthet másoknak, közreműködhet "
+"másokkal, így segíthet a Mandriva Linux és más Nyílt Forrású projekt "
+"fejlesztésében. Bármilyen technikai tudása is van, szívesen vesszük "
+"csatlakozását: készítsük együtt a következő kiadást."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"A Mandriva Linux segítségével szabadon beállíthatja az önnek szükséges "
+"környezetet. Személyre szabható, moduláris, skálázható, hatékony, számtalan "
+"vizuális látványelemmel: mindent önért. Ez egy exkluzív, minden okos "
+"funkcióval rendelkező, divatos munkaasztal. Állítsa be a saját szája ízére, "
+"és használja örömmel. Címkézze fel dokumentumait, képeit, emailjeit, vezesse "
+"a projektjeit."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Mandriva fórumok"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Mandriva levelező listák"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Fürge, innovatív, nyílt"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Csatlakoztassa a munkaasztalát egy multimédiacenterhez vagy egy könnyű "
+"netbookhoz: csak egy klikk. Több ezer szoftverhez van hozzáférése: "
+"multimédia, irodai szoftverek, grafika, internet, fejlesztői eszközök... "
+"Tapasztalja meg mit tud a számítógéppel elérni, és érje el a céljait a "
+"segítségével!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "A 100%-ig ingyenes / Nyílt Forrású <br/>disztribúció"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "A Linux munkaasztal, amit <br/>könnyű kipróbálni, könnyű megtartani"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "A Mandriva Linux disztribúció<br/>még többel"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Közreműködhet a Mandriva Linux alapjának fejlesztésében is."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Közre tud működni a Mandriva Linux fejlesztésében."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Az ön számítógépe megfelel az igényeinek."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Az ön számítógépe most még okosabb!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Az ön számítógépe egyszerű és biztonságos."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Közvetlen hozzáférés a Mandriva szoftver-adatbázishoz, így elérhetővé "
+#~ "válik több ezer program: multimédia, irodai szoftverek, grafika, "
+#~ "internet, fejlesztés... Minden csupán pár klikkre. Nyitott, könnyen "
+#~ "használható, biztonságban tudhatja az adatait."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "További innovációk felfedezése"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Többet nyújt, mint egy Operációs Rendszer. Egy egyszerű, teljes és "
+#~ "biztonságos környezetet biztosít."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "A munkaasztala tele van meglepetéssel. Kapcsolja a számítógépét egy "
+#~ "kattintással multimédiás centerré a Moovida segítségével. Fedezze fel a "
+#~ "mobil Munkaasztalban rejtő lehetőségeket a Moblin környezetével: növelje "
+#~ "meg a munkaasztala értékét, fókuszáljon a mobilitásra."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Biztonságra és használhatóságra tervezve"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Egy teljes és személyre szabott asztali környezet"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Minden elérhető extra már ma! A Mandriva eszközökkel a tapasztalt "
+#~ "felhasználók tudását használhatja a jól megszokott könnyű formában. "
+#~ "Otthoni internet vagy vezeték nélküli kapcsolat? Csak egy klikk és megy! "
+#~ "Ossza meg dokumentumait különleges előkészületek és szakképzettség "
+#~ "nélkül! Hozzáférhet a hivatalos Mandriva csomagadatbázishoz és szabadon "
+#~ "választhat a több mint 20.000 szoftver közül. Mindezt könnyen és "
+#~ "biztonságosan. A Mandriva Linux tartalmaz egy szülői kontrollt biztosító "
+#~ "eszközt és egy páratlan, személyre szabható tűzfalat. A személyes adatai "
+#~ "így biztonságban vannak!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr ""
+#~ "Segíts felépíteni a Mandrivának a kompatibilis hardverek adatbázisát"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Innovatív és stabil"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "A Mandriva Linux megengedi a választást: készítse el saját környezetét az "
+#~ "igényeinek és a szükségletének megfelelően. Személyre szabott, moduláris, "
+#~ "méretezhető és a vizuális effektek teljes tárháza a rendelkezésére áll. "
+#~ "Használja bátran minden körülmény között: a legrégebbi hardvertől a "
+#~ "legújabbakig."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "A Mandriva Linux az innovatív, erőteljes és stabil nyílt forráskódú "
+#~ "szoftverek gyűjteménye. Irodai alkalmazáscsomagok, azonnali üzenetküldés, "
+#~ "multimédia (képek, hang és videó): minden, ami egy teljes értékű "
+#~ "számítógép asztalán szerepel és szükséges az ismerősökkel való teljes "
+#~ "kompatibilitáshoz."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "A Mandriva létrehozott egy közösségi hardver adatbázist, mely a közösség "
+#~ "által kipróbált hardverekről készült jelentések alapján töltenek fel, és "
+#~ "segítséget nyújt a felhasználóknak a hardver vásárlásában illetve növeli "
+#~ "a Linux támogatottságát. Ha szeretne a programban részt venni, kérjük "
+#~ "küldje el a rendszere leírását. Más felhasználók is értesülni  fognak az "
+#~ "adatairól a rendszer publikus lényege miatt. Az összegyűjtött információ "
+#~ "személyes adatokat nem tartalmaz, és vonatkozik rá személyes adatok "
+#~ "védelméről kiadott nyilatkozatunk. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> Csak egy klikk, és már segített.</a>"

@@ -1,0 +1,126 @@
+# Tryneeds-Chinese <http://tryneeds.westart.tw/>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2009-04-13 10:00+0800\n"
+"Last-Translator: Tryneeds-Chinese <tryneeds@gmail.com>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr "適合您的各種需求。完全支援小筆電！"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "贊助 Mandriva Linux"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "如何對 Mandriva Linux 做出貢獻"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr "安裝 Mandriva Linux 2010 並加入一個開放的世界。"
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Mandriva 論壇"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Mandriva 郵件論壇"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "聰明，革新，開放"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "100% 自由/開放原始碼的<br/>發行版"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr "容易嘗試與維護的 <br/> Linux 桌面"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "包含更多內容的 <br/>Mandriva Linux 發行版"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "您可以贊助 Mandriva 來提供貢獻。"
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "您可以對 Mandriva Linux 做出貢獻。"
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "您的桌面正符合您的需求。"
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "您的桌面更聰明了！"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "您的桌面是簡單而安全的。"
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "探索更多革新"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr "不僅只是個作業系統，您會發現一個簡單、完整而安全的環境。"

@@ -1,0 +1,254 @@
+# finnish translation of mandriva-galaxy-data
+#
+# Mika Nieminen <linuxpeisi1@gmail.com>, 2009.
+# Jani Välimaa <wally@mandriva.org>, 2009, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy-data-fi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-11 17:21-0200\n"
+"PO-Revision-Date: 2010-05-21 19:34+0300\n"
+"Last-Translator: Jani Välimaa <wally@mandriva.org>\n"
+"Language-Team: Finnish <cooker-i18n@mandrivalinux.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.html.in.h:1
+msgid ""
+"A complete range for all your needs. Full support for netbooks included!"
+msgstr ""
+"Kattava valikoima jokaiseen tarpeeseen. Myös täysi tuki minikannettaville!"
+
+#: index.html.in.h:2
+msgid ""
+"Easy-to-use goes hand in hand with the security of your data and your "
+"family. Mandriva Linux comes with a full set of powerfull administration "
+"tools. Printer configuration, network and mobility management, but also "
+"personal firewall, network and applications access control for children... "
+"Your environment is free, easy and all secure!"
+msgstr ""
+"Helppokäyttöisyys kulkee käsi kädessä tiedostojen ja perheen turvallisuuden "
+"kanssa. Mandriva Linux tarjoaa täyden valikoiman tehokkaita "
+"ylläpitotyökaluja. Tulostimen asetukset, verkon ja liikkuvuuden hallinta, "
+"mutta myös henkilökohtainen palomuuri ja verkon ja ohjelmien "
+"käyttörajoitukset lapsia varten... Käyttöympäristö on vapaa, helppo ja "
+"turvallinen!"
+
+#: index.html.in.h:3
+msgid "Fund Mandriva Linux"
+msgstr "Rahoita Mandriva Linuxia"
+
+#: index.html.in.h:4
+msgid "Howto Contribute to Mandriva Linux"
+msgstr "Avusta Mandriva Linuxia"
+
+#: index.html.in.h:5
+#, fuzzy
+msgid "Install Mandriva Linux 2011 and join an Open world."
+msgstr "Asenna Mandriva Linux 2011 ja liity avoimeen maailmaan."
+
+#: index.html.in.h:6
+msgid ""
+"Mandriva Community is where you get the best Mandriva Linux experience, "
+"learning from others, teaching others, accessing exclusive features and "
+"contributing to the development of Mandriva Linux and Free and Open Source "
+"Software in general. Whatever your technical skills are, join us for coming "
+"distribution versions."
+msgstr ""
+"Mandrivan yhteisön avulla löytyy parhaat Mandriva Linux -kokemukset, oppii "
+"toisilta, voi opettaa toisia, pääsee käsiksi hienoihin ominaisuuksiin, voi "
+"avustaa kehittämään Mandriva Linuxia ja ilmaisia ja vapaan lähdekoodin "
+"ohjelmia yleensäkin. Olivatpa tekniset taidot millaisia tahansa, liity "
+"yhteisöön tulevia jakeluita varten."
+
+#: index.html.in.h:7
+msgid ""
+"Mandriva Linux makes you all free to configure your environment for your "
+"needs. Personalizable, modular, scalable, efficient and full of visual "
+"effects if you so wish: take your pick. As an exclusivity, discover all "
+"functionalities of smart desktop. Define your environment based on the use "
+"you put it to. Label your documents, your images, your emails, identify your "
+"projects. ."
+msgstr ""
+"Mandriva Linux mahdollistaa käyttöympäristön konfiguroimisen vapaasti omien "
+"tarpeiden mukaiseksi. Personoitava, modulaarinen, skaalautuva, tehokas ja "
+"täydet visuaaliset tehosteet: valitse omasi tarpeiden mukaan. Löydä "
+"yksinoikeudella älykkään työpöydän toiminnot. Määrittele käyttöympäristö "
+"käyttötarpeiden mukaan. Nimeä dokumentit, kuvat, sähköpostit ja yksilöi "
+"projektit."
+
+#: index.html.in.h:8
+msgid "Mandriva forums"
+msgstr "Mandrivan keskustelupalstat"
+
+#: index.html.in.h:9
+msgid "Mandriva mailing lists"
+msgstr "Mandrivan postituslistat"
+
+#: index.html.in.h:10
+msgid "Mandriva wiki"
+msgstr "Mandriva Wiki"
+
+#: index.html.in.h:11
+msgid "Smart, Innovative, Open"
+msgstr "Älykäs, innovatiivinen, avoin"
+
+#: index.html.in.h:12
+msgid ""
+"Switch your desktop into a multimedia center or a light netbook environment: "
+"it's as easy as a click. You have full access to thousands of softwares: "
+"multimedia, office system, graphics, Internet, development... Improve your "
+"desktop experience and get more than an Operating System!."
+msgstr ""
+"Muunna työpöytä multimediakeskukseksi tai minikannettaville soveltuvaksi "
+"kevyeksi ympäristöksi yhdellä hiiren napsautuksella. Käytössä on tuhansia "
+"sovelluksia kuten esim. multimedia-, toimisto-, grafiikka-, Internet- tai "
+"kehityssovellukset. Paranna työpöytäkokemuksia ja hanki paljon muutakin kuin "
+"pelkkä käyttöjärjestelmä isolla K:lla!"
+
+#: index.html.in.h:14
+#, no-c-format
+msgid "The 100% Free / Open Source<br/>distribution"
+msgstr "100% ilmainen ja vapaan lähdekoodin<br/> jakelu"
+
+#: index.html.in.h:15
+msgid "The Linux desktop that's <br/>easy to try and easy to keep"
+msgstr ""
+"Linux-työpöytä<br/>, jota on helppo kokeilla, mutta myös helppo jättää "
+"käyttöön"
+
+#: index.html.in.h:16
+msgid "The Mandriva Linux distribution<br/>with even more"
+msgstr "Mandriva Linux -jakelu<br/>ja paljon muutakin"
+
+#: index.html.in.h:17
+msgid "You can also contribute to Mandriva Linux funding it."
+msgstr "Voit avustaa Mandrivaa myös rahoittamalla sen toimintaa."
+
+#: index.html.in.h:18
+msgid "You can contribute to Mandriva Linux."
+msgstr "Voit avustaa Mandriva Linuxia."
+
+#: index.html.in.h:19
+msgid "Your desktop fits your needs."
+msgstr "Työpöytä sopii joka tarpeeseen."
+
+#: index.html.in.h:20
+msgid "Your desktop is even smarter!"
+msgstr "Työpöytä on vieläpä älykäs!"
+
+#: index.html.in.h:21
+msgid "Your desktop is simple and secure."
+msgstr "Työpöytä on yksinkertainen ja turvallinen."
+
+#~ msgid ""
+#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "thousands of softwares: multimedia, office system, graphics, Internet, "
+#~ "development ... Everything is available in just a few clicks. Open and "
+#~ "easy-to-use go hand in hand with the security of your data."
+#~ msgstr ""
+#~ "Käytä Mandrivan ohjelmistolähteitä ja ota hyöty irti tuhansista "
+#~ "ohjelmista: multimedia, toimistosovellukset, grafiikka, Internet, "
+#~ "kehitys, jne. Kaikki on saatavilla vain muutamalla napsautuksella. "
+#~ "Avoimuus ja helppokäyttöisyys kulkevat käsi kädessä tietoturvan kanssa."
+
+#~ msgid "Discover ever more innovations"
+#~ msgstr "Tutustu yhä useampaan innovaatioon"
+
+#~ msgid ""
+#~ "So much more than an Operating System, you will discover a simple, "
+#~ "complete and secure environment."
+#~ msgstr ""
+#~ "Paljon muutakin kuin pelkkä käyttöjärjestelmä. Löydä yksinkertainen, "
+#~ "kattava ja turvallinen käyttöympäristö."
+
+#~ msgid ""
+#~ "Your desktop is a hive of surprises. Switch your desktop in a click into "
+#~ "a multimedia center thanks to Moovida. Discover the new environments "
+#~ "dedicated to mobile desktop with Moblin: improve your desktop experience, "
+#~ "focusing on mobility."
+#~ msgstr ""
+#~ "Työpöytä on täynnä yllätyksiä. Muunna työpöytä yhdellä napsautuksella "
+#~ "multimediakeskukseksi Moovidan avulla. Löydä uudet mobiilikäyttöön "
+#~ "tarkoitetut ympäristöt Moblinin avulla: paranna työpöytäkokemuksia "
+#~ "keskittymällä liikkuvuuteen."
+
+#~ msgid "A bundle of easiness and security"
+#~ msgstr "Yhdistelmä helppokäyttöisyyttä ja turvallisuutta"
+
+#~ msgid "A complete and personnalized desktop environment"
+#~ msgstr "Täydellinen ja henkilökohtainen työpöytäympäristö"
+
+#~ msgid ""
+#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "desktop experience easier. Home network connection or mobile connection: "
+#~ "it's as easy as a click! Share your documents without even thinking of "
+#~ "how to do it! Get direct access to official Mandriva software "
+#~ "repositories and take advantage of more than 20.000 available packages. "
+#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "parental control tool and a very powerful personal firewall. Your "
+#~ "personal data is completely secured!"
+#~ msgstr ""
+#~ "Mandrivan työkalut tekevät Linux-työpöydän käyttämisestä entistä "
+#~ "helpompaa. Kotiverkon ja langattomien yhteyksien muodostaminen onnistuu "
+#~ "muutamalla hiiren napsautuksella! Asiakirjojen jakaminen onnistuu "
+#~ "miettimättä miten jakaminen edes tapahtuu! Mandrivan pakettilähteistä "
+#~ "löytyy yli 20 000 asennettavaa pakettia. Helppo ei tarkoita turvatonta. "
+#~ "Mandriva Linuxin mukana asentuu Lapsilukko-työkalu ja hyvin tehokas "
+#~ "henkilökohtainen palomuuri. Henkilökohtaiset asiakirjat ovat taatusti "
+#~ "täysin turvassa!"
+
+#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgstr "Avusta Mandrivaa rakentamaan tietokantaa yhteensopivista laitteista"
+
+#~ msgid "Inovative and stable"
+#~ msgstr "Vakaa ja edistyksellinen"
+
+#~ msgid ""
+#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "fit your needs and your preferences. Personalizable, modular, scalable, "
+#~ "efficient and full of visual effects if you so wish: it's up to you and "
+#~ "usable everywhere, from the oldest hardware to the newest."
+#~ msgstr ""
+#~ "Mandriva Linux tarjoaa mahdollisuuden rakentaa käyttöympäristön,joka "
+#~ "soveltuu jokaisen tarpeisiin ja vaatimuksiin. Mandriva on persoonallinen, "
+#~ "muokattava, skaalattava, tehokas ja täynnä visuaalisia efektejä; kaikki "
+#~ "on käyttäjästä itsestä kiinni. Mandriva toimii myös uusimman laitteiston "
+#~ "lisäksi hieman vanhemmalla laitteistolla."
+
+#~ msgid ""
+#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "open source softwares. Office suite, instant messaging, multimedia "
+#~ "(images, audio, video): your desktop is complete and full of compatible "
+#~ "functionalities with all your acquaintances."
+#~ msgstr ""
+#~ "Mandriva Linux on täynnä edistyksellisimpiä, tehokkaimpia ja vakaimpia "
+#~ "vapaan lähdekoodin ohjelmistoja. Toimistosovellusten, pikaviestinten ja  "
+#~ "multimediasovellusten myötä työpöytä on täydellinen ja täynnä tuttuja "
+#~ "toimintoja."
+
+#~ msgid ""
+#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "which aims to help Linux users find out about the compatibility of their "
+#~ "hardware, and follow the improvement of support. If you would like to "
+#~ "take part, you can send us the list of hardware in your system and rate "
+#~ "its performance under Linux. Other users can then use this information. "
+#~ "The information is not linked to your personal information in any way, "
+#~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
+#~ "mandriva.com\"> It's quick and easy to contribute.</a>"
+#~ msgstr ""
+#~ "Mandriva on perustanut yhteensopivista laitteistoista tietokannan, jonka "
+#~ "tarkoituksena on helpottaa Linux-käyttäjiä selvittämään laitteistojensa "
+#~ "yhteensopivuuden ja seuraamaan laitteistotuen kehittymistä. Jos haluat "
+#~ "ottaa osaa, voit lähettää listan käytössä olevasta laitteistosta "
+#~ "tietokantaan ja arvioida laitteiston suorituskykyä Linux-käytössä. Toiset "
+#~ "käyttäjät voivat tämän jälkeen hyötyä tästä informaatiosta, "
+#~ "laitteistoinformaatiota ei kuitenkaan yhdistetä mitenkään "
+#~ "henkilökohtaisiin tietoihin yksityisyyden varmistamiseksi. <a target="
+#~ "\"_blank\" href=\"http://hcl.mandriva.com\">Tietojen lisääminen on "
+#~ "helppoa ja yksinkertaista.</a>"
