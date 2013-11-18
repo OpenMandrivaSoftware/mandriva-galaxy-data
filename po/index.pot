@@ -25,36 +25,36 @@ msgstr ""
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenMandriva Lx comes with a full set of powerfull administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
+msgid "Fund OpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
+msgid "Howto Contribute to OpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:5
-msgid "Install Mandriva Linux 2011 and join an Open world."
+msgid "Install OpenMandriva Lx 2011 and join an Open world."
 msgstr ""
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
@@ -63,15 +63,15 @@ msgid ""
 msgstr ""
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
+msgid "OpenMandriva forums"
 msgstr ""
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
+msgid "OpenMandriva mailing lists"
 msgstr ""
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
+msgid "OpenMandriva wiki"
 msgstr ""
 
 #: index.html.in.h:11
@@ -96,15 +96,15 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr ""
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
+msgid "The OpenMandriva Lx distribution<br/>with even more"
 msgstr ""
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
+msgid "You can also contribute to OpenMandriva Lx funding it."
 msgstr ""
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
+msgid "You can contribute to OpenMandriva Lx."
 msgstr ""
 
 #: index.html.in.h:19

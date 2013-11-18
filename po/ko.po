@@ -25,23 +25,23 @@ msgstr "당신의 모든 요구를 완벽히 충족합니다. 넷북에 대한 �
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
+"family. OpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 
 #: index.html.in.h:3
-msgid "Fund OpenOpenMandriva Lx"
+msgid "Fund OpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:4
-msgid "Howto Contribute to OpenOpenMandriva Lx"
+msgid "Howto Contribute to OpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
+msgid "Install OpenMandriva Lx 2011 and join an Open world."
 msgstr ""
 "메타냅 맨드리바 리눅스 2009 봄 버젼을 사용하여 세계적 커뮤니티에 조인하세요"
 
@@ -49,14 +49,14 @@ msgstr ""
 msgid ""
 "OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
+"contributing to the development of OpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 
 #: index.html.in.h:7
 msgid ""
-"OpenOpenMandriva Lx makes you all free to configure your environment for your "
+"OpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
@@ -98,15 +98,15 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "사용하기 쉽고 휴대하기 쉬운<br/> 리눅스 데스탑"
 
 #: index.html.in.h:16
-msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
+msgid "The OpenMandriva Lx distribution<br/>with even more"
 msgstr "메타냅 맨드리바 리눅스 발행본<br>은 그 이상입니다"
 
 #: index.html.in.h:17
-msgid "You can also contribute to OpenOpenMandriva Lx funding it."
+msgid "You can also contribute to OpenMandriva Lx funding it."
 msgstr ""
 
 #: index.html.in.h:18
-msgid "You can contribute to OpenOpenMandriva Lx."
+msgid "You can contribute to OpenMandriva Lx."
 msgstr ""
 
 #: index.html.in.h:19
@@ -134,7 +134,7 @@ msgstr ""
 #~ "it's as easy as a click! Share your documents without even thinking of "
 #~ "how to do it! Get direct access to official OpenMandriva software "
 #~ "repositories and take advantage of more than 20.000 available packages. "
-#~ "Easy does not mean unsecure. OpenOpenMandriva Lx is installed together with a "
+#~ "Easy does not mean unsecure. OpenMandriva Lx is installed together with a "
 #~ "parental control tool and a very powerful personal firewall. Your "
 #~ "personal data is completely secured!"
 #~ msgstr ""
@@ -155,7 +155,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "OpenOpenMandriva Lx gives you the choice: make your own environment that will "
+#~ "OpenMandriva Lx gives you the choice: make your own environment that will "
 #~ "fit your needs and your preferences. Personalizable, modular, scalable, "
 #~ "efficient and full of visual effects if you so wish: it's up to you and "
 #~ "usable everywhere, from the oldest hardware to the newest."
@@ -167,7 +167,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "OpenOpenMandriva Lx is a set of the most inovative, powerful and stable of "
+#~ "OpenMandriva Lx is a set of the most inovative, powerful and stable of "
 #~ "open source softwares. Office suite, instant messaging, multimedia "
 #~ "(images, audio, video): your desktop is complete and full of compatible "
 #~ "functionalities with all your acquaintances."

@@ -28,53 +28,53 @@ msgstr ""
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
+"family. OpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 "Brukervennlighet går hånd i hånd med sikkerheten til dine data og din "
-"familie. OpenOpenMandriva Lx kommer med en rekke kraftige administrasjonverktøy. "
+"familie. OpenMandriva Lx kommer med en rekke kraftige administrasjonverktøy. "
 "Skriveroppsett, nettverk og tilgjengelighet, men også personlig brannmur, "
 "nettverk og programtilgangkontroll for barn … Ditt skriverbord er fritt, "
 "brukervennlig og sikkert."
 
 #: index.html.in.h:3
-msgid "Fund OpenOpenMandriva Lx"
-msgstr "Finansier OpenOpenMandriva Lx"
+msgid "Fund OpenMandriva Lx"
+msgstr "Finansier OpenMandriva Lx"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to OpenOpenMandriva Lx"
-msgstr "Hvordan bidra til OpenOpenMandriva Lx"
+msgid "Howto Contribute to OpenMandriva Lx"
+msgstr "Hvordan bidra til OpenMandriva Lx"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
-msgstr "Installer OpenOpenMandriva Lx 2011 og bli med i en åpen verden."
+msgid "Install OpenMandriva Lx 2011 and join an Open world."
+msgstr "Installer OpenMandriva Lx 2011 og bli med i en åpen verden."
 
 #: index.html.in.h:6
 msgid ""
 "OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
+"contributing to the development of OpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 "Miljøet rundt OpenMandriva er hvor man finner den beste erfaringen. Få tilgang "
-"til enestående funksjoner og bidra til utviklingen av OpenOpenMandriva Lx og Fri/"
+"til enestående funksjoner og bidra til utviklingen av OpenMandriva Lx og Fri/"
 "Åpen Kildekode. Kom og bli med oss i utviklingen av kommende versjoner, "
 "uavhengig av ditt tekniske nivå."
 
 #: index.html.in.h:7
 msgid ""
-"OpenOpenMandriva Lx makes you all free to configure your environment for your "
+"OpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
 "you put it to. Label your documents, your images, your emails, identify your "
 "projects. ."
 msgstr ""
-"OpenOpenMandriva Lx lar deg føle friheten til å stille inn miljøet etter egne "
+"OpenMandriva Lx lar deg føle friheten til å stille inn miljøet etter egne "
 "behov. Personlig, modulært, skalerbar, effektivt og fullt av visuelle "
 "effekter. Oppdage alle funksjonene i et smart skrivebord og still inn "
 "miljøet basert på bruken av det. Sett etiketter på dokumenter, bilder og e-"
@@ -119,16 +119,16 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "Linux-skrivebordet som er <br/> lett å prøve og enkelt å beholde"
 
 #: index.html.in.h:16
-msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
-msgstr "OpenOpenMandriva Lx-distribusjonen<br/> med enda mer"
+msgid "The OpenMandriva Lx distribution<br/>with even more"
+msgstr "OpenMandriva Lx-distribusjonen<br/> med enda mer"
 
 #: index.html.in.h:17
-msgid "You can also contribute to OpenOpenMandriva Lx funding it."
-msgstr "Du kan også bidra til OpenOpenMandriva Lx ved å finansiere den."
+msgid "You can also contribute to OpenMandriva Lx funding it."
+msgstr "Du kan også bidra til OpenMandriva Lx ved å finansiere den."
 
 #: index.html.in.h:18
-msgid "You can contribute to OpenOpenMandriva Lx."
-msgstr "Du kan bidra til OpenOpenMandriva Lx."
+msgid "You can contribute to OpenMandriva Lx."
+msgstr "Du kan bidra til OpenMandriva Lx."
 
 #: index.html.in.h:19
 msgid "Your desktop fits your needs."

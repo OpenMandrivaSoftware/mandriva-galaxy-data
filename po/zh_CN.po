@@ -22,50 +22,50 @@ msgstr "完全满足您的全部需要。完整支持上网本！"
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
+"family. OpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
-"为了保卫您数据和家庭的安全，我们做出了易用性上的极大改进。OpenOpenMandriva Lx 自带"
+"为了保卫您数据和家庭的安全，我们做出了易用性上的极大改进。OpenMandriva Lx 自带"
 "各种功能强大的管理工具。打印机配置，网络和移动办公管理，个人防火墙，为儿童设"
 "定的应用程序访问控制，皆可自由使用。您的环境自由、易用且安全。"
 
 #: index.html.in.h:3
-msgid "Fund OpenOpenMandriva Lx"
-msgstr "资助 OpenOpenMandriva Lx"
+msgid "Fund OpenMandriva Lx"
+msgstr "资助 OpenMandriva Lx"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to OpenOpenMandriva Lx"
-msgstr "如何向 OpenOpenMandriva Lx 贡献"
+msgid "Howto Contribute to OpenMandriva Lx"
+msgstr "如何向 OpenMandriva Lx 贡献"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
-msgstr "安装 OpenOpenMandriva Lx 2011 并加入开放世界。"
+msgid "Install OpenMandriva Lx 2011 and join an Open world."
+msgstr "安装 OpenMandriva Lx 2011 并加入开放世界。"
 
 #: index.html.in.h:6
 msgid ""
 "OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
+"contributing to the development of OpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 "OpenMandriva 社区可让您获得绝佳的 OpenMandriva Lx 体验，互帮互助，访问专属特性，"
-"为 OpenOpenMandriva Lx 和其它开源软件的开发做出贡献。不管您有何专长，都可在未来的"
+"为 OpenMandriva Lx 和其它开源软件的开发做出贡献。不管您有何专长，都可在未来的"
 "版本中一展身手。"
 
 #: index.html.in.h:7
 msgid ""
-"OpenOpenMandriva Lx makes you all free to configure your environment for your "
+"OpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
 "you put it to. Label your documents, your images, your emails, identify your "
 "projects. ."
 msgstr ""
-"OpenOpenMandriva Lx 为您提供了各种选择：让您的使用环境完全适合需要和喜好。个性化、"
+"OpenMandriva Lx 为您提供了各种选择：让您的使用环境完全适合需要和喜好。个性化、"
 "模块化、可扩充性、高效以及多彩的视觉效果：完全取决于您，并可以支持各种硬件条"
 "件。而专属的智能桌面还可助您完成各项任务。您可根据您的任务类型定义您的环境。"
 "还可以使用标签来标记您的文档、图像、电子邮件及个人项目。"
@@ -107,16 +107,16 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "易于使用维护的 <br/> Linux 桌面"
 
 #: index.html.in.h:16
-msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
-msgstr "包含更多内容的 <br/>OpenOpenMandriva Lx 发行版"
+msgid "The OpenMandriva Lx distribution<br/>with even more"
+msgstr "包含更多内容的 <br/>OpenMandriva Lx 发行版"
 
 #: index.html.in.h:17
-msgid "You can also contribute to OpenOpenMandriva Lx funding it."
-msgstr "您还可以资助 OpenOpenMandriva Lx。"
+msgid "You can also contribute to OpenMandriva Lx funding it."
+msgstr "您还可以资助 OpenMandriva Lx。"
 
 #: index.html.in.h:18
-msgid "You can contribute to OpenOpenMandriva Lx."
-msgstr "您可以为 OpenOpenMandriva Lx 作出贡献。"
+msgid "You can contribute to OpenMandriva Lx."
+msgstr "您可以为 OpenMandriva Lx 作出贡献。"
 
 #: index.html.in.h:19
 msgid "Your desktop fits your needs."
