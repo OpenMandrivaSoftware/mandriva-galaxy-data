@@ -1,5 +1,5 @@
 # Translation of mandriva-galaxy-data.po to Romanian
-# Copyright (c) 1999-2010 Mandriva
+# Copyright (c) 1999-2010 OpenMandriva
 #
 # Vă rugăm să nu actualizaţi fișierul, cu excepția cazului în care sînteți
 # sigur de calitatea traducerii dumneavoastră, de gramatică și de ortografie.
@@ -30,7 +30,7 @@
 #
 # Vă mulțumim pentru înțelegere.
 #                                                       Echipa de traducători,
-#                                                       www.Mandrivausers.ro
+#                                                       www.OpenMandrivausers.ro
 #
 # Traducători de-a lungul timpului:
 #
@@ -62,56 +62,56 @@ msgstr ""
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 "Ușurința în utilizare mege mînă-n mînă cu securitatea datelor voastre și a "
-"familiei. Mandriva Linux vine cu un set complet de unelte puternice de "
+"familiei. OpenOpenMandriva Lx vine cu un set complet de unelte puternice de "
 "administrare. Configurarea imprimantei, gestiunea rețelei și a mobilității, "
 "dar și un parafoc personal, controlul accesului la aplicații și rețea pentru "
 "copii... Mediul vostru de lucru este liber, facil și complet securizat!"
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
-msgstr "Finanțați Mandriva Linux"
+msgid "Fund OpenOpenMandriva Lx"
+msgstr "Finanțați OpenOpenMandriva Lx"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
-msgstr "Cum să contribuiți la Mandriva Linux"
+msgid "Howto Contribute to OpenOpenMandriva Lx"
+msgstr "Cum să contribuiți la OpenOpenMandriva Lx"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install Mandriva Linux 2011 and join an Open world."
+msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
 msgstr ""
-"Instalați Mandriva Linux 2011 și alăturați-vă unei lumi deschise."
+"Instalați OpenOpenMandriva Lx 2011 și alăturați-vă unei lumi deschise."
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
-"Comunitatea Mandriva este locul unde beneficiați de cea mai bună experiență "
-"Mandriva Linux, învățînd de la unii, învățîndu-i pe alții, accesînd "
-"funcționalități exclusive și contribuind la dezvoltarea Mandriva Linux și a "
+"Comunitatea OpenMandriva este locul unde beneficiați de cea mai bună experiență "
+"OpenOpenMandriva Lx, învățînd de la unii, învățîndu-i pe alții, accesînd "
+"funcționalități exclusive și contribuind la dezvoltarea OpenOpenMandriva Lx și a "
 "programelor libere și cu sursă deschisă în general. Indiferent de "
 "competențele voastre tehnice, alăturați-vă nouă pentru versiunile ce vor "
 "veni."
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenOpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
 "you put it to. Label your documents, your images, your emails, identify your "
 "projects. ."
 msgstr ""
-"Mandriva Linux vă permite să vă configurați un mediu de lucru adaptat "
+"OpenOpenMandriva Lx vă permite să vă configurați un mediu de lucru adaptat "
 "nevoilor voastre. Personalizabil, modular, scalabil, eficient și plin de "
 "efecte vizuale dacă doriți. Ca o exclusivitate, descoperiți toate "
 "funcționalitățile unui birou inteligent. Definiți-vă mediul de lucru în "
@@ -119,16 +119,16 @@ msgstr ""
 "mesajele electronice și identificați-vă proiectele."
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
-msgstr "Forumurile Mandriva"
+msgid "OpenMandriva forums"
+msgstr "Forumurile OpenMandriva"
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
-msgstr "Listele de difuziune Mandriva"
+msgid "OpenMandriva mailing lists"
+msgstr "Listele de difuziune OpenMandriva"
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
-msgstr "Mandriva wiki"
+msgid "OpenMandriva wiki"
+msgstr "OpenMandriva wiki"
 
 #: index.html.in.h:11
 msgid "Smart, Innovative, Open"
@@ -157,16 +157,16 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "Biroul Linux ușor de <br/>încercat și adoptat"
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
-msgstr "Distribuția Mandriva Linux <br/>oferind mereu mai mult"
+msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
+msgstr "Distribuția OpenOpenMandriva Lx <br/>oferind mereu mai mult"
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
-msgstr "De altfel puteți contribui financiar la Mandriva Linux."
+msgid "You can also contribute to OpenOpenMandriva Lx funding it."
+msgstr "De altfel puteți contribui financiar la OpenOpenMandriva Lx."
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
-msgstr "Puteți contribui la Mandriva Linux."
+msgid "You can contribute to OpenOpenMandriva Lx."
+msgstr "Puteți contribui la OpenOpenMandriva Lx."
 
 #: index.html.in.h:19
 msgid "Your desktop fits your needs."
@@ -181,12 +181,12 @@ msgid "Your desktop is simple and secure."
 msgstr "Biroul vostru este simplu și securizat."
 
 #~ msgid ""
-#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "Directly access OpenMandriva software repositories and take advantage of "
 #~ "thousands of softwares: multimedia, office system, graphics, Internet, "
 #~ "development ... Everything is available in just a few clicks. Open and "
 #~ "easy-to-use go hand in hand with the security of your data."
 #~ msgstr ""
-#~ "Accesați direct depozitele Mandriva cu pachete și profitați de mii de "
+#~ "Accesați direct depozitele OpenMandriva cu pachete și profitați de mii de "
 #~ "programe de: multimedia, birotică, grafică, internet, dezvoltare... Totul "
 #~ "disponibil în cîțiva clici. Deschis și ușor de utilizat, mînă-n mînă cu "
 #~ "securitate datelor voastre."
@@ -219,57 +219,57 @@ msgstr "Biroul vostru este simplu și securizat."
 #~ msgstr "Un mediu de birou complet și personalizat"
 
 #~ msgid ""
-#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "Both essential features offered together! OpenMandriva tools make your Linux "
 #~ "desktop experience easier. Home network connection or mobile connection: "
 #~ "it's as easy as a click! Share your documents without even thinking of "
-#~ "how to do it! Get direct access to official Mandriva software "
+#~ "how to do it! Get direct access to official OpenMandriva software "
 #~ "repositories and take advantage of more than 20.000 available packages. "
-#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "Easy does not mean unsecure. OpenOpenMandriva Lx is installed together with a "
 #~ "parental control tool and a very powerful personal firewall. Your "
 #~ "personal data is completely secured!"
 #~ msgstr ""
-#~ "Două funcționalități esențiale oferite simultan! Uneltele Mandriva vă "
+#~ "Două funcționalități esențiale oferite simultan! Uneltele OpenMandriva vă "
 #~ "facilitează experiența cu biroul Linux. Conexiunea la rețeaua domestică "
 #~ "sau mobilă: simplă ca un clic! Partajați-vă documentele fără să vă "
-#~ "gîndiți cum se face! Accesați în direct la toate depozitele Mandriva și "
+#~ "gîndiți cum se face! Accesați în direct la toate depozitele OpenMandriva și "
 #~ "profitați de mai mult de 20 000 de pachete disponibile. Facil nu înseamnă "
-#~ "nesecurizat. Mandriva Linux dispune de o unealtă de control parental și "
+#~ "nesecurizat. OpenOpenMandriva Lx dispune de o unealtă de control parental și "
 #~ "un puternic parafoc personal. Datele voastre personale sînt complet "
 #~ "securizate!"
 
-#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgid "Help OpenMandriva build a hardware compatibility database"
 #~ msgstr ""
-#~ "Ajutați Mandriva să construiască o bază de date de componemte materiale "
+#~ "Ajutați OpenMandriva să construiască o bază de date de componemte materiale "
 #~ "compatibile"
 
 #~ msgid "Inovative and stable"
 #~ msgstr "Inovativ și stabil"
 
 #~ msgid ""
-#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "OpenOpenMandriva Lx gives you the choice: make your own environment that will "
 #~ "fit your needs and your preferences. Personalizable, modular, scalable, "
 #~ "efficient and full of visual effects if you so wish: it's up to you and "
 #~ "usable everywhere, from the oldest hardware to the newest."
 #~ msgstr ""
-#~ "Mandriva Linux vă oferă o libertate totală: configurați-vă mediul de "
+#~ "OpenOpenMandriva Lx vă oferă o libertate totală: configurați-vă mediul de "
 #~ "lucru pe măsura nevoilor și preferințelor. Personalizabil, modular, "
 #~ "scalabil, eficient și plin de efecte vizuale dacă asta doriți: voi "
 #~ "decideți! Poate fi utilizat oriunde, de pe cel mai vechi calculator pînă "
 #~ "pe cel mai recent."
 
 #~ msgid ""
-#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "OpenOpenMandriva Lx is a set of the most inovative, powerful and stable of "
 #~ "open source softwares. Office suite, instant messaging, multimedia "
 #~ "(images, audio, video): your desktop is complete and full of compatible "
 #~ "functionalities with all your acquaintances."
 #~ msgstr ""
-#~ "Mandriva Linux este o colecție a celor mai inovative, puternice și "
+#~ "OpenOpenMandriva Lx este o colecție a celor mai inovative, puternice și "
 #~ "stabile programe libere. Suită de birotică, mesagerie instantanee, "
 #~ "multimedia (imagini, audio, video): biroul vostru este complet și plin de "
 #~ "funcționalități compatibile cu cele de care dispun prietenii voștrii."
 
 #~ msgid ""
-#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "OpenMandriva has put in place a community hardware compatibility database "
 #~ "which aims to help Linux users find out about the compatibility of their "
 #~ "hardware, and follow the improvement of support. If you would like to "
 #~ "take part, you can send us the list of hardware in your system and rate "
@@ -278,7 +278,7 @@ msgstr "Biroul vostru este simplu și securizat."
 #~ "guaranteeing your privacy. <a target=\"_blank\" href=\"http://hcl."
 #~ "mandriva.com\"> It's quick and easy to contribute.</a>"
 #~ msgstr ""
-#~ "Mandriva a creat o bază de date comunitară de compatibilitate a "
+#~ "OpenMandriva a creat o bază de date comunitară de compatibilitate a "
 #~ "componentelor materiale, cu scopul de-a oferi utilizatorilor de Linux "
 #~ "informații despe componentele lor materiale și să poată urmări "
 #~ "ameliorarea supotrului acestora. Dacă doriți să participați, ne puteți "

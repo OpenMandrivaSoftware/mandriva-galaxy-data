@@ -1,6 +1,6 @@
 # translation of mandriva-galaxy-data to French
 # French translation for mandriva-galaxy-data
-# Copyright (C) 2009 MandrivaLinux
+# Copyright (C) 2009 OpenMandrivaLinux
 #
 # Christophe Berthelé <berthy@mandriva.org>, 2009.
 msgid ""
@@ -28,56 +28,56 @@ msgstr ""
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 "Facilité d'utilisation va de pair avec la sécurité de vos données et de "
-"votre famille. Mandriva Linux est livré avec un ensemble complet de "
+"votre famille. OpenOpenMandriva Lx est livré avec un ensemble complet de "
 "puissants outils d'administration. Configuration de l'impression, du réseau "
 "et de la gestion de la mobilité, mais aussi parefeu personnel, contrôle "
 "d'accès des enfants au réseau et aux applications... Votre environnement est "
 "libre, facile d'utilisation et complètement sécurisé !"
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
-msgstr "Financer Mandriva Linux"
+msgid "Fund OpenOpenMandriva Lx"
+msgstr "Financer OpenOpenMandriva Lx"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
-msgstr "Comment contribuer à Mandriva Linux"
+msgid "Howto Contribute to OpenOpenMandriva Lx"
+msgstr "Comment contribuer à OpenOpenMandriva Lx"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install Mandriva Linux 2011 and join an Open world."
-msgstr "Installez Mandriva Linux 2011 et rejoignez un monde Ouvert."
+msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
+msgstr "Installez OpenOpenMandriva Lx 2011 et rejoignez un monde Ouvert."
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
-"La Communauté Mandriva vous permettra de profiter de la meilleure expérience "
-"Mandriva Linux, d'apprendre des autres, d'enseigner aux autres, d'accèder à "
-"des fonctionnalités exclusives et de contribuer au développement de Mandriva "
+"La Communauté OpenMandriva vous permettra de profiter de la meilleure expérience "
+"OpenOpenMandriva Lx, d'apprendre des autres, d'enseigner aux autres, d'accèder à "
+"des fonctionnalités exclusives et de contribuer au développement de OpenMandriva "
 "Linux, ainsi qu'aux logiciels gratuits et Open source en général. Quelles "
 "que soient vos compétences techniques, rejoignez-nous pour les futures "
 "versions de la distribution."
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenOpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
 "you put it to. Label your documents, your images, your emails, identify your "
 "projects. ."
 msgstr ""
-"Mandriva Linux vous offre la liberté de configurer votre environnement pour "
+"OpenOpenMandriva Lx vous offre la liberté de configurer votre environnement pour "
 "vos besoins. Personnalisable, modulaire, évolutif, efficace et plein "
 "d'effets visuels si vous le souhaitez : faites votre choix. En exclusivité, "
 "découvrez toutes les fonctionnalités du bureau intelligent. Configurez votre "
@@ -85,16 +85,16 @@ msgstr ""
 "courriels, identifiez vos projets."
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
-msgstr "Forums Mandriva"
+msgid "OpenMandriva forums"
+msgstr "Forums OpenMandriva"
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
-msgstr "Listes de distribution Mandriva"
+msgid "OpenMandriva mailing lists"
+msgstr "Listes de distribution OpenMandriva"
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
-msgstr "Mandriva wiki"
+msgid "OpenMandriva wiki"
+msgstr "OpenMandriva wiki"
 
 #: index.html.in.h:11
 msgid "Smart, Innovative, Open"
@@ -123,16 +123,16 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "Le bureau Linux facile à<br/> tester et facile à adopter"
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
-msgstr "La distribution Mandriva Linux<br/>avec toujours plus"
+msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
+msgstr "La distribution OpenOpenMandriva Lx<br/>avec toujours plus"
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
-msgstr "Vous pouvez aussi contribuer en finançant le projet Mandriva Linux."
+msgid "You can also contribute to OpenOpenMandriva Lx funding it."
+msgstr "Vous pouvez aussi contribuer en finançant le projet OpenOpenMandriva Lx."
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
-msgstr "Vous pouvez contribuer à Mandriva Linux."
+msgid "You can contribute to OpenOpenMandriva Lx."
+msgstr "Vous pouvez contribuer à OpenOpenMandriva Lx."
 
 #: index.html.in.h:19
 msgid "Your desktop fits your needs."
@@ -147,12 +147,12 @@ msgid "Your desktop is simple and secure."
 msgstr "Votre bureau est simple d'utilisation et sécurisé !"
 
 #~ msgid ""
-#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "Directly access OpenMandriva software repositories and take advantage of "
 #~ "thousands of softwares: multimedia, office system, graphics, Internet, "
 #~ "development ... Everything is available in just a few clicks. Open and "
 #~ "easy-to-use go hand in hand with the security of your data."
 #~ msgstr ""
-#~ "Accèdez directement aux dépôts logiciels Mandriva et profitez de milliers "
+#~ "Accèdez directement aux dépôts logiciels OpenMandriva et profitez de milliers "
 #~ "de d'applications : multimédia, bureautique, graphisme, Internet, "
 #~ "développement... Tout est accessible en quelques clics. Ouverte et "
 #~ "facile, marchez main dans la main avec la sécurité de vos données."

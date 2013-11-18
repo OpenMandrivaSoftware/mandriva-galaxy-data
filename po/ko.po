@@ -25,38 +25,38 @@ msgstr "당신의 모든 요구를 완벽히 충족합니다. 넷북에 대한 �
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
+msgid "Fund OpenOpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
+msgid "Howto Contribute to OpenOpenMandriva Lx"
 msgstr ""
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install Mandriva Linux 2011 and join an Open world."
+msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
 msgstr ""
 "메타냅 맨드리바 리눅스 2009 봄 버젼을 사용하여 세계적 커뮤니티에 조인하세요"
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenOpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
@@ -65,15 +65,15 @@ msgid ""
 msgstr ""
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
+msgid "OpenMandriva forums"
 msgstr ""
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
+msgid "OpenMandriva mailing lists"
 msgstr ""
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
+msgid "OpenMandriva wiki"
 msgstr ""
 
 #: index.html.in.h:11
@@ -98,15 +98,15 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "사용하기 쉽고 휴대하기 쉬운<br/> 리눅스 데스탑"
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
+msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
 msgstr "메타냅 맨드리바 리눅스 발행본<br>은 그 이상입니다"
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
+msgid "You can also contribute to OpenOpenMandriva Lx funding it."
 msgstr ""
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
+msgid "You can contribute to OpenOpenMandriva Lx."
 msgstr ""
 
 #: index.html.in.h:19
@@ -129,12 +129,12 @@ msgstr ""
 #~ msgstr "완전하고 개인화된 메타냅 맨드리바 리눅스 데스크탑 환경"
 
 #~ msgid ""
-#~ "Both essential features offered together! Mandriva tools make your Linux "
+#~ "Both essential features offered together! OpenMandriva tools make your Linux "
 #~ "desktop experience easier. Home network connection or mobile connection: "
 #~ "it's as easy as a click! Share your documents without even thinking of "
-#~ "how to do it! Get direct access to official Mandriva software "
+#~ "how to do it! Get direct access to official OpenMandriva software "
 #~ "repositories and take advantage of more than 20.000 available packages. "
-#~ "Easy does not mean unsecure. Mandriva Linux is installed together with a "
+#~ "Easy does not mean unsecure. OpenOpenMandriva Lx is installed together with a "
 #~ "parental control tool and a very powerful personal firewall. Your "
 #~ "personal data is completely secured!"
 #~ msgstr ""
@@ -147,7 +147,7 @@ msgstr ""
 #~ "고 있고매우 강력한 개인 방화벽을 제공합니다. 당신의 개인 자료는 맨드리바 "
 #~ "리눅스가보호합니다!"
 
-#~ msgid "Help Mandriva build a hardware compatibility database"
+#~ msgid "Help OpenMandriva build a hardware compatibility database"
 #~ msgstr "맨드리바가 하드웨어 호환성 데이타베이스를 만드는데 협력하세요"
 
 #~ msgid "Inovative and stable"
@@ -155,7 +155,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "Mandriva Linux gives you the choice: make your own environment that will "
+#~ "OpenOpenMandriva Lx gives you the choice: make your own environment that will "
 #~ "fit your needs and your preferences. Personalizable, modular, scalable, "
 #~ "efficient and full of visual effects if you so wish: it's up to you and "
 #~ "usable everywhere, from the oldest hardware to the newest."
@@ -167,7 +167,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "Mandriva Linux is a set of the most inovative, powerful and stable of "
+#~ "OpenOpenMandriva Lx is a set of the most inovative, powerful and stable of "
 #~ "open source softwares. Office suite, instant messaging, multimedia "
 #~ "(images, audio, video): your desktop is complete and full of compatible "
 #~ "functionalities with all your acquaintances."
@@ -178,7 +178,7 @@ msgstr ""
 #~ "고 호환성있는 기능을 모두 제공합니다."
 
 #~ msgid ""
-#~ "Mandriva has put in place a community hardware compatibility database "
+#~ "OpenMandriva has put in place a community hardware compatibility database "
 #~ "which aims to help Linux users find out about the compatibility of their "
 #~ "hardware, and follow the improvement of support. If you would like to "
 #~ "take part, you can send us the list of hardware in your system and rate "

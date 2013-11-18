@@ -31,57 +31,57 @@ msgstr ""
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 "Легкость в использовании идет рука об руку с безопасностью ваших данных и "
-"вашей семьи. Mandriva Linux поставляется с полным набором мощных средств "
+"вашей семьи. OpenOpenMandriva Lx поставляется с полным набором мощных средств "
 "управления. Настройка принтера, сети и управление мобильными устройствами, а "
 "также персональный брандмауэр, контроль доступа детей к интернет и "
 "приложениям. Ваше рабочее окружение свободно, просто в использовании и "
 "абсолютно надежно!"
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
-msgstr "Внесите вклад в Mandriva Linux"
+msgid "Fund OpenOpenMandriva Lx"
+msgstr "Внесите вклад в OpenOpenMandriva Lx"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
-msgstr "Как принять участие в работе над Mandriva Linux"
+msgid "Howto Contribute to OpenOpenMandriva Lx"
+msgstr "Как принять участие в работе над OpenOpenMandriva Lx"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install Mandriva Linux 2011 and join an Open world."
+msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
 msgstr ""
-"Установите Mandriva Linux 2011 и присоединяйтесь к миру открытого ПО."
+"Установите OpenOpenMandriva Lx 2011 и присоединяйтесь к миру открытого ПО."
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
-"Сообщество Mandriva Linux это место, где вы можете получить наилучший опыт "
+"Сообщество OpenOpenMandriva Lx это место, где вы можете получить наилучший опыт "
 "работы с Linux, поучиться у других, обучить других, получить доступ к "
-"эксклюзивным возможностям и принять участие в разработке Mandriva Linux, а "
+"эксклюзивным возможностям и принять участие в разработке OpenOpenMandriva Lx, а "
 "также другого Открытого и Свободного ПО. Вне зависимости от вашего уровня "
 "знаний, мы будем рады, если вы к нам присоединитесь начиная с новой версии "
 "дистрибутива."
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenOpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
 "you put it to. Label your documents, your images, your emails, identify your "
 "projects. ."
 msgstr ""
-"Mandriva Linux позволяет вам легко настраивать окружение под ваши "
+"OpenOpenMandriva Lx позволяет вам легко настраивать окружение под ваши "
 "требования. Персонализируемая, модульная и полная визуальных эффектов, она "
 "готова поддержать ваши запросы. Также опробуйте эксклюзивную "
 "функциональность \"умного\" рабочего стола. Задайте ваше окружение на основе "
@@ -89,16 +89,16 @@ msgstr ""
 "идентифицируйте ваши проекты. "
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
-msgstr "Форумы Mandriva"
+msgid "OpenMandriva forums"
+msgstr "Форумы OpenMandriva"
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
-msgstr "Рассылки Mandriva"
+msgid "OpenMandriva mailing lists"
+msgstr "Рассылки OpenMandriva"
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
-msgstr "Вики Mandriva"
+msgid "OpenMandriva wiki"
+msgstr "Вики OpenMandriva"
 
 #: index.html.in.h:11
 msgid "Smart, Innovative, Open"
@@ -129,16 +129,16 @@ msgstr ""
 "не откажетесь"
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
-msgstr "Дистрибутив Mandriva Linux<br/> с неограниченными возможностями!"
+msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
+msgstr "Дистрибутив OpenOpenMandriva Lx<br/> с неограниченными возможностями!"
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
-msgstr "Вы также можете помочь Mandriva, внеся денежный вклад."
+msgid "You can also contribute to OpenOpenMandriva Lx funding it."
+msgstr "Вы также можете помочь OpenMandriva, внеся денежный вклад."
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
-msgstr "Вы можете участвовать в развитии Mandriva Linux."
+msgid "You can contribute to OpenOpenMandriva Lx."
+msgstr "Вы можете участвовать в развитии OpenOpenMandriva Lx."
 
 #: index.html.in.h:19
 msgid "Your desktop fits your needs."
@@ -153,12 +153,12 @@ msgid "Your desktop is simple and secure."
 msgstr "Ваш рабочий стол прост и безопасен."
 
 #~ msgid ""
-#~ "Directly access Mandriva software repositories and take advantage of "
+#~ "Directly access OpenMandriva software repositories and take advantage of "
 #~ "thousands of softwares: multimedia, office system, graphics, Internet, "
 #~ "development ... Everything is available in just a few clicks. Open and "
 #~ "easy-to-use go hand in hand with the security of your data."
 #~ msgstr ""
-#~ "Подключитесь к программным источникам Mandriva и получите доступ к "
+#~ "Подключитесь к программным источникам OpenMandriva и получите доступ к "
 #~ "тысячам программ: для мультимедиа, офиса, графики, интернет, "
 #~ "разработки... Все это дуступно за пару кликов мыши. Открытость и легкость "
 #~ "в использовании сочетаются с безопасностью ваших данных."

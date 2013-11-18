@@ -25,38 +25,38 @@ msgstr "Kerakli vosita va asboblarning toʻliq toʻplami."
 #: index.html.in.h:2
 msgid ""
 "Easy-to-use goes hand in hand with the security of your data and your "
-"family. Mandriva Linux comes with a full set of powerfull administration "
+"family. OpenOpenMandriva Lx comes with a full set of powerful administration "
 "tools. Printer configuration, network and mobility management, but also "
 "personal firewall, network and applications access control for children... "
 "Your environment is free, easy and all secure!"
 msgstr ""
 
 #: index.html.in.h:3
-msgid "Fund Mandriva Linux"
-msgstr "Mandriva Linux'ga moliyaviy hissa qoʻshing"
+msgid "Fund OpenOpenMandriva Lx"
+msgstr "OpenOpenMandriva Lx'ga moliyaviy hissa qoʻshing"
 
 #: index.html.in.h:4
-msgid "Howto Contribute to Mandriva Linux"
-msgstr "Mandriva Linux rivojiga qanday hissa qoʻshish mumkin"
+msgid "Howto Contribute to OpenOpenMandriva Lx"
+msgstr "OpenOpenMandriva Lx rivojiga qanday hissa qoʻshish mumkin"
 
 #: index.html.in.h:5
 #, fuzzy
-msgid "Install Mandriva Linux 2011 and join an Open world."
+msgid "Install OpenOpenMandriva Lx 2011 and join an Open world."
 msgstr ""
-"Mandriva Linux 2010 OTsini oʻrnating va ochiq kodli DT olamiga qoʻshiling."
+"OpenOpenMandriva Lx 2010 OTsini oʻrnating va ochiq kodli DT olamiga qoʻshiling."
 
 #: index.html.in.h:6
 msgid ""
-"Mandriva Community is where you get the best Mandriva Linux experience, "
+"OpenMandriva Community is where you get the best OpenMandriva Lx experience, "
 "learning from others, teaching others, accessing exclusive features and "
-"contributing to the development of Mandriva Linux and Free and Open Source "
+"contributing to the development of OpenOpenMandriva Lx and Free and Open Source "
 "Software in general. Whatever your technical skills are, join us for coming "
 "distribution versions."
 msgstr ""
 
 #: index.html.in.h:7
 msgid ""
-"Mandriva Linux makes you all free to configure your environment for your "
+"OpenOpenMandriva Lx makes you all free to configure your environment for your "
 "needs. Personalizable, modular, scalable, efficient and full of visual "
 "effects if you so wish: take your pick. As an exclusivity, discover all "
 "functionalities of smart desktop. Define your environment based on the use "
@@ -65,16 +65,16 @@ msgid ""
 msgstr ""
 
 #: index.html.in.h:8
-msgid "Mandriva forums"
-msgstr "Mandriva forumlari"
+msgid "OpenMandriva forums"
+msgstr "OpenMandriva forumlari"
 
 #: index.html.in.h:9
-msgid "Mandriva mailing lists"
-msgstr "Mandriva xat tarqatmalari"
+msgid "OpenMandriva mailing lists"
+msgstr "OpenMandriva xat tarqatmalari"
 
 #: index.html.in.h:10
-msgid "Mandriva wiki"
-msgstr "Mandriva wiki"
+msgid "OpenMandriva wiki"
+msgstr "OpenMandriva wiki"
 
 #: index.html.in.h:11
 msgid "Smart, Innovative, Open"
@@ -98,16 +98,16 @@ msgid "The Linux desktop that's <br/>easy to try and easy to keep"
 msgstr "Sinab koʻrishga qulay va koʻngilni uzib boʻlmas<br/>Linux ish stoli"
 
 #: index.html.in.h:16
-msgid "The Mandriva Linux distribution<br/>with even more"
-msgstr "Cheklanmagan imkoniyatlarga ega<br/>Mandriva Linux distributivi"
+msgid "The OpenOpenMandriva Lx distribution<br/>with even more"
+msgstr "Cheklanmagan imkoniyatlarga ega<br/>OpenOpenMandriva Lx distributivi"
 
 #: index.html.in.h:17
-msgid "You can also contribute to Mandriva Linux funding it."
-msgstr "Mandriva Linux rivojiga moliyaviy tomondan hissa qoʻshishingiz mumkin."
+msgid "You can also contribute to OpenOpenMandriva Lx funding it."
+msgstr "OpenOpenMandriva Lx rivojiga moliyaviy tomondan hissa qoʻshishingiz mumkin."
 
 #: index.html.in.h:18
-msgid "You can contribute to Mandriva Linux."
-msgstr "Mandriva Linux rivojiga hissa qoʻshishingiz mumkin."
+msgid "You can contribute to OpenOpenMandriva Lx."
+msgstr "OpenOpenMandriva Lx rivojiga hissa qoʻshishingiz mumkin."
 
 #: index.html.in.h:19
 #, fuzzy
